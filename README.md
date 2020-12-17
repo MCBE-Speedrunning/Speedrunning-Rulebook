@@ -1,7 +1,8 @@
 <hr>
 <br>
 <h1 align="center">
-	Minecraft: Bedrock Edition	
+	Minecraft: Bedrock Edition
+	<br>
 	Official Rule Book
 </h1>
 <br>
