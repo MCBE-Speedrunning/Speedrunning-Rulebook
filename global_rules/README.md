@@ -6,8 +6,6 @@
 
 [Back](../README.md)
 
----
-
 ## General Rules
 
 * The use of external tools that modify the game in any way, shape, or form are forbidden.
@@ -17,8 +15,6 @@
 	- This includes changing gamemodes.
 * While we do promote ingenuity and creativity from runners, do not attempt to be cheeky in regards to the rules. Exploiting loopholes in the rules that were clearly not intended to be exploited may result in your run being rejected.
 	- If you do find a loophole, we ask you point it out to a moderator instead.
-	
----
 
 ## Submission Rules
 
@@ -30,8 +26,6 @@
 	- This is not a required rule, however it is strongly recommend as it saves the moderators a lot of time when verifying.
 	- If the queue is long enough your run may be rejected with a message requesting you resubmit with timestamps.
 	
----
-
 ## Game Modification Rules
 
 * Any sort of texture pack or other visual modification that gives the runner an advantage is banned.
@@ -41,8 +35,6 @@
 * All runs must be performed on a vanilla client.
 	- There is an exception to this rule for runners playing on Linux.
 * Any other form of game modification / data pack is forbidden.
-
----
 
 ## Proof Rules
 
@@ -60,8 +52,6 @@
 		+ You may use whatever music you would like.
 * All videos must show the world creation process and the runner entering the newly created world.
 
----
-
 ## Timing Rules
 
 * Timing starts on the first frame of movement after world creation.
@@ -70,8 +60,6 @@
 * You may wait for a reasonable amount of time at the start of your run for the world to load.
 * Full game runs time with full second precision. Milliseconds will be used however in the case of a tie.
 * Individual level runs are timed with millisecond precision.
-
----
 
 ## World Creation Rules
 
