@@ -21,8 +21,8 @@ Official Rule Book
 
 * [Platform Specific Rules](platform_rules/README.md)
 	- [PC](platform_rules/README.md#pc)
-		+ Windows
-		+ Linux
+		+ [Windows](platform_rules/README.md#windows)
+		+ [Linux](platform_rules/README.md#linux)
 	- [Mobile](platform_rules/README.md#mobile)
 	- [Console](platform_rules/README.md#console)
 	- [Virtual Reality](platform_rules/README.md#virtual-reality)
@@ -31,4 +31,7 @@ Official Rule Book
 	- Set Seed
 	- Random Seed
 	
-* Cooperative Specific Rules
+* [Cooperative Specific Rules](coop_specific_rules/README.md)
+	- [General](coop_specific_rules/README.md#general)
+	- [Run Submission](coop_specific_rules/README.md#run-submission)
+	- [Proof](coop_specific_rules/README.md#proof)
