@@ -45,6 +45,7 @@
 	- Any video hosting service is allowed, and the video does not need to be public. It is however strongly recommend that you submit public videos on YouTube.
 	- There are no minimum quality settings, however at a minimum we recommend 480p video at 30fps.
 	- A run may be rejected if there are too many dropped frames as it makes accurate retiming impossible.
+	- Audio is not required.
 * It is not required to have a timer.
 * Editing the video in any way, shape, or form that affects the resulting time of the run is strictly against the rules.
 	- Examples of banned edits are splices and changing the video speed.
