@@ -27,9 +27,9 @@ Official Rule Book
 	- [Console](platform_rules/README.md#console)
 	- [Virtual Reality](platform_rules/README.md#virtual-reality)
 	
-* Seed Specific Rules
-	- Set Seed
-	- Random Seed
+* [Seed Specific Rules](seed_specific_rules/README.md)
+	- [Set Seed](seed_specific_rules/README.md#set-seed)
+	- [Random Seed](seed_specific_rules/README.md#random-seed)
 	
 * [Cooperative Specific Rules](coop_specific_rules/README.md)
 	- [General](coop_specific_rules/README.md#general)
