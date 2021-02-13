@@ -9,9 +9,11 @@
 ## Set Seed
 
 * You must input the world seed manually.
-	- It does not matter if you chose the seed, or randomly smash your keyboard. Submissions to set seed that do not predefine a seed will be rejected.
-	
+	- It does not matter if you choose the seed, or randomly smash your
+	keyboard. Submissions to set seed that do not predefine a seed will be
+	rejected.
+
 ## Random Seed
 
 * You must leave the world seed box blank.
-* Viewing the world seed before the end of the run is forbidden.	
+* Viewing the world seed before the end of the run is forbidden.
