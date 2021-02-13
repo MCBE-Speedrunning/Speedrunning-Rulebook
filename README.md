@@ -18,8 +18,16 @@ Official Rule Book
   
 * [Full Game Specific Rules](fullgame/README.md)
 	- [Any%](fullgame/any.md)
+	- [Any% Glitchless](fullgame/any-glitchless.md)
+	- [Cooperative Any%](fullgame/coop-any.md)
+	- [Cooperative Any% Glitchless](fullgame/coop-any-glitchless.md)
 
 * Individual Level Specific Rules
+
+* [Cooperative Specific Rules](coop/README.md)
+	- [General](coop/README.md#general)
+	- [Run Submission](coop/README.md#run-submission)
+	- [Proof](coop/README.md#proof)
 
 * [Platform Specific Rules](platform/README.md)
 	- [PC](platform/README.md#pc)
@@ -33,7 +41,6 @@ Official Rule Book
 	- [Set Seed](seed/README.md#set-seed)
 	- [Random Seed](seed/README.md#random-seed)
 
-* [Cooperative Specific Rules](coop/README.md)
-	- [General](coop/README.md#general)
-	- [Run Submission](coop/README.md#run-submission)
-	- [Proof](coop/README.md#proof)
+* [Touchscreen Glitch](tsglitch/README.md)
+	- [No Touchscreen Glitch](tsglitch/README.md#no-touchscreen-glitch)
+	- [Touchscreen Glitch](tsglitch/README.md#touchscreen-glitch)
