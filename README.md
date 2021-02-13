@@ -6,6 +6,8 @@ Official Rule Book
 
 # Table of Contents
 
+## Game Rules
+
 * [Bannable Offences and our Cheater Policy](cheaters/README.md)
 
 * [Global Rules](global/README.md)
@@ -15,6 +17,8 @@ Official Rule Book
 	- [Proof Rules](global/README.md#proof-rules)
 	- [Timing Rules](global/README.md#timing-rules)
 	- [World Creation Rules](global/README.md#world-creation-rules)
+
+## Category Rules
 
 * Full Game Specific Rules
 	- [Any%](fullgame/any.md)
@@ -32,6 +36,19 @@ Official Rule Book
 	- [Obtain All Ores](il/ores.md)
 	- [Obtain Item](il/item.md)
 	- [Obtain All Discs](il/discs.md)
+
+* Category Extension Specific Rules
+	- [1.16 Beta Solo](catext/beta.md)
+	- [1.16 Beta Coop](catext/beta-coop.md)
+	- [Any% Peaceful (Item Creation)](catext/any-peaceful-ic.md)
+	- [SSP Solo](catext/ssp.md)
+	- [SSP Coop](catext/ssp-coop.md)
+	- [All Armor Sets](catext/armor.md)
+	- [Enter Nether](catext/nether.md)
+	- [All Wood Types](catext/woods.md)
+	- [Full Inventory](catext/fullinv.md)
+
+## Subcategory Rules
 
 * [Cooperative Specific Rules](coop/README.md)
 	- [General](coop/README.md#general)
