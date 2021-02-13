@@ -11,6 +11,8 @@
 
 * The use of external tools that modify the game in any way, shape, or form are
 forbidden.
+* The as of now Android-exclusive 1.2.6.* duping glitch is banned from all
+categories unless explicitely stated otherwise.
 * In-game commands must not be executed during the run.
 	- This includes glitch runs, where runners often attempt to use the
 	command glitch. The command glitch is forbidden as it violates this
