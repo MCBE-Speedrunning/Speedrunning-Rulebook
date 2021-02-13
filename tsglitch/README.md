@@ -1,4 +1,4 @@
-# Seed Rules
+# Touchscreen Glitch Rules
 
 **NOTE: The following rules may be overwritten by specific category rules**
 
