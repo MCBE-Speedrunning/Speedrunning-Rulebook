@@ -1,2 +1,5 @@
 # Ghostwriter Backup Files
 *.backup
+
+# Personal Script
+push.sh
