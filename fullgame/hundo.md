@@ -15,3 +15,5 @@ after (show all attained achievements) the run.
 * Timing ends when the requirement for the last achievement is completed, make
 sure to write in the run description an approximate timestamp, so it's easier
 for us to properly check whether the requirement has been met.
+	- See the [timing rules](../global/README.md#timing-rules) regarding
+	when timing begins.
