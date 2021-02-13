@@ -1,6 +1,7 @@
 # Kill Bosses Glitchless Specific Rules
 
-**If you have any questions, the answer may be in our [FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
+**If you have any questions, the answer may be in our
+[FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
 
 [Back](../README.md)
 

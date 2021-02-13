@@ -2,7 +2,8 @@
 
 **NOTE: The following rules may be overwritten by specific category rules**
 
-**If you have any questions, the answer may be in our [FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
+**If you have any questions, the answer may be in our
+[FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
 
 [Back](../README.md)
 
@@ -17,7 +18,7 @@
 ### Linux
 
 * Linux users may play the Pocket Edition of the game and submit to the PC
-leaderboards if played via the [Linux Launcher](https://mcpelauncher.readthedocs.io/en/latest/getting_started.html)
+leaderboards if played via the [Linux Launcher](https://tinyurl.com/mcbelinux)
 
 ## Mobile
 

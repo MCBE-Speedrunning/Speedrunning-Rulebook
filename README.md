@@ -15,7 +15,7 @@ Official Rule Book
 	- [Proof Rules](global/README.md#proof-rules)
 	- [Timing Rules](global/README.md#timing-rules)
 	- [World Creation Rules](global/README.md#world-creation-rules)
-  
+
 * [Full Game Specific Rules](fullgame/README.md)
 	- [Any%](fullgame/any.md)
 	- [Any% Glitchless](fullgame/any-glitchless.md)

@@ -2,13 +2,15 @@
 
 **NOTE: The following rules may be overwritten by specific category rules**
 
-**If you have any questions, the answer may be in our [FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
+**If you have any questions, the answer may be in our
+[FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
 
 [Back](../README.md)
 
 ## General Rules
 
-* The use of external tools that modify the game in any way, shape, or form are forbidden.
+* The use of external tools that modify the game in any way, shape, or form are
+forbidden.
 * In-game commands must not be executed during the run.
 	- This includes glitch runs, where runners often attempt to use the
 	command glitch. The command glitch is forbidden as it violates this

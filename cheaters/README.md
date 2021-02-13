@@ -1,8 +1,10 @@
 # Bannable Offences and our Cheater Policy
 
-**If you have any questions, the answer may be in our [FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
+**If you have any questions, the answer may be in our
+[FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
 
-**A full list of banned players and those worthy of doubt can be viewable [here](https://www.speedrun.com/mcbe/thread/5cuo8)**
+**A full list of banned players and those worthy of doubt can be viewable
+[here](https://www.speedrun.com/mcbe/thread/5cuo8)**
 
 [Back](../README.md)
 
