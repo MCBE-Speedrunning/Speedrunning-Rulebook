@@ -16,7 +16,7 @@ Official Rule Book
 	- [Timing Rules](global/README.md#timing-rules)
 	- [World Creation Rules](global/README.md#world-creation-rules)
 
-* [Full Game Specific Rules](fullgame/README.md)
+* Full Game Specific Rules
 	- [Any%](fullgame/any.md)
 	- [Any% Glitchless](fullgame/any-glitchless.md)
 	- [Cooperative Any%](fullgame/coop-any.md)
@@ -28,6 +28,10 @@ Official Rule Book
 	- [Cooperative Kill Bosses Glitchless](fullgame/coop-bosses-glitchless.md)
 
 * Individual Level Specific Rules
+	- [Obtain All Dye Colours](il/dyes.md)
+	- [Obtain All Ores](il/ores.md)
+	- [Obtain Item](il/item.md)
+	- [Obtain All Discs](il/discs.md)
 
 * [Cooperative Specific Rules](coop/README.md)
 	- [General](coop/README.md#general)
@@ -45,6 +49,10 @@ Official Rule Book
 * [Seed Specific Rules](seed/README.md)
 	- [Set Seed](seed/README.md#set-seed)
 	- [Random Seed](seed/README.md#random-seed)
+
+* [Structures](structures/README.md)
+	- [Structures](structures/README.md#structures)
+	- [No Structures](structures/README.md#no-structures)
 
 * [Touchscreen Glitch](tsglitch/README.md)
 	- [No Touchscreen Glitch](tsglitch/README.md#no-touchscreen-glitch)
