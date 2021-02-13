@@ -21,6 +21,11 @@ Official Rule Book
 	- [Any% Glitchless](fullgame/any-glitchless.md)
 	- [Cooperative Any%](fullgame/coop-any.md)
 	- [Cooperative Any% Glitchless](fullgame/coop-any-glitchless.md)
+	- [100%](fullgame/hundo.md)
+	- [Kill Bosses](fullgame/bosses.md)
+	- [Kill Bosses Glitchless](fullgame/bosses-glitchless.md)
+	- [Cooperative Kill Bosses](fullgame/coop-bosses.md)
+	- [Cooperative Kill Bosses Glitchless](fullgame/coop-bosses-glitchless.md)
 
 * Individual Level Specific Rules
 
