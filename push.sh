@@ -9,5 +9,5 @@ if ! echo $repos | grep 'gitea' > /dev/null 2>&1; then
     git remote add gitea https://git.mcbe.wtf/MCBE-Speedrunning/Speedrunning-Rulebook.git
 fi
 
-git push remote gitea
-git push remote github
+git push gitea
+git push github
