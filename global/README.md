@@ -87,6 +87,7 @@ newly created world.
 	- Opening your inventory, the pause menu, and changing perspectives do
 	not count as movement.
 	- For cooperative runs, timing starts when the first player moves.
+	- Punching or mining counts as movement.
 * You may wait for a reasonable amount of time at the start of your run for the
 world to load.
 * Full game runs time with full second precision. Milliseconds will be used
