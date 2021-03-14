@@ -66,6 +66,8 @@ advantage is banned.
 	- Any video hosting service is allowed, and the video does not need to
 	be public. It is however strongly recommend that you submit public
 	videos on YouTube.
+		+ If a video is not public, it must either be unlisted, or be
+		shared with a moderator in another form.
 	- There are no minimum quality settings, however at a minimum we
 	recommend 480p video at 30fps.
 	- A run may be rejected if there are too many dropped frames as it
