@@ -111,5 +111,6 @@ however in the case of a tie.
 * TNT Explodes: ON
 * Mob Loot: ON
 * Tile Drops: ON
+* Respawn Radius: 5 (Default)
 * Use Experimental Gameplay: OFF
 * Activate Cheats: OFF
