@@ -2,4 +2,4 @@
 
 # Remove trailing whitespace
 
-s/[ \t]*$//
+s/[[:blank:]]*$//
