@@ -1,7 +1,7 @@
 <h1 align="center">
 Minecraft: Bedrock Edition
 <br>
-Official Rule Book
+Speedrunning Rulebook
 </h1>
 
 # Table of Contents
