@@ -6,7 +6,7 @@
 [Back](../README.md)
 
 * All dyes must be in your inventory at the end of the run.
-* Timing ends the frame the last dye color is visible in your inventory.
+* Timing ends when the last dye colour enters the inventory.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 

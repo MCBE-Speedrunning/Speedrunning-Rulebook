@@ -8,7 +8,7 @@
 * Must obtain all ores corresponding to your subcategory.
 	- Ingots count as ores.
 * All ores must be in your inventory at the end of the run.
-* Timing ends the frame the last ore is visible in your inventory.
+* Timing ends the frame the last ore enters the inventory.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 

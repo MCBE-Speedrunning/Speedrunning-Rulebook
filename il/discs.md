@@ -6,7 +6,7 @@
 [Back](../README.md)
 
 * All discs must be in your inventory at the end of the run.
-* Timing ends the frame the last disc is visible in your inventory.
+* Timing ends the frame the last disc enters the inventory.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 

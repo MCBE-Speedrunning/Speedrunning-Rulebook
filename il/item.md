@@ -6,7 +6,7 @@
 [Back](../README.md)
 
 * Must obtain the item corresponding to your subcategory.
-* Timing ends the frame the item is visible in your inventory.
+* Timing ends the frame the item enters the inventory.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 
