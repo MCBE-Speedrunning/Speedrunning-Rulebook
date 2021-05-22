@@ -1,0 +1,18 @@
+MAINTAINER UTILS
+================
+If you are not a maintainer of this repository, you can ignore this directory.
+This directory simply contains a few scripts to make life easier, namely:
+
+	- long.awk	Point out obnoxiously long lines
+	- push.sh	Push any changes to both the main repo at git.mcbe.wtf
+				and the github mirror
+	- trim.sed	Trim any trailing whitespace
+
+To use `long.awk` or `trim.sed` on all the files in the repository, you can use
+the following command:
+
+```
+$ ./long.awk $(find ../ -not -type d -not -regex '^\.\./\.git.*')
+```
+
+No output means all is well.
