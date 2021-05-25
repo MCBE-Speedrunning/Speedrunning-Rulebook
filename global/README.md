@@ -38,6 +38,13 @@ specify timestamps of the runs beginning and end in the submission description.
 	saves the moderators a lot of time when verifying.
 	- If the queue is long enough your run may be rejected with a message
 	requesting you resubmit with timestamps.
+* Top runners must be prepared to send extra evidence for their runs, which may include:
+    - A full raw recording of the session
+	- Recordings of past attempts
+	- The world folder of the run (limited to PC runs)
+	- The world seed (for random seed runs) - it is encouraged to send the world seed for every submission, but not mandatory
+* Other runners should also be ready to send this extra evidence if required (though it will not be required in most cases)
+
 
 ## Game Modification Rules
 
