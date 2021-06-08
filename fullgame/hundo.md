@@ -5,12 +5,7 @@
 
 [Back](../README.md)
 
-* Must complete all achievements excluding the following:
-	- Passing the Time
-	- Diamonds to You!
-	- Time for Stew
-	- Adventuring Time
-	- Sail the 7 Seas
+
 * You must show the achievements screen before (must have 0 achievements) and
 after (show all attained achievements) the run.
 * Timing ends when the requirement for the last achievement is completed, make
@@ -18,3 +13,152 @@ sure to write in the run description an approximate timestamp, so it's easier
 for us to properly check whether the requirement has been met.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
+
+**1.17** 
+* Must complete all the achievements excluding the following ones:
+	- Passing the Time
+	- Diamonds to You!
+	- Time for Stew
+	- Adventuring Time
+	- Sail the 7 Seas
+
+**1.16**
+* Must complete all the achievements excluding the following ones: 
+	- Passing the Time
+	- Diamonds to You!
+	- Time for Stew
+	- Adventuring Time
+	- Sail the 7 Seas
+	- Wax on, Wax off
+	- Whatever Floats Your Goat
+	- The Healing Power of Friendship
+
+**1.14**
+* Must complete all the achievements excluding the following ones: 
+	- Passing the Time
+	- Diamonds to You!
+	- Time for Stew
+	- Adventuring Time
+	- Sail the 7 Seas
+	- Wax on, Wax off
+	- Whatever Floats Your Goat
+	- he Healing Power of Friendship
+	- Bullseye
+	- Cover me in debris
+	- Hot Tourist Destination
+	- Ooooh, shiny!
+
+**1.11**
+* Must complete all the achievements excluding the following ones: 
+	- Passing the Time
+	- Diamonds to You!
+	- Time for Stew
+	- Adventuring Time
+	- Sail the 7 Seas
+	- Wax on, Wax off
+	- Whatever Floats Your Goat
+	- The Healing Power of Friendship
+	- Bullseye
+	- Cover me in debris
+	- Hot Tourist Destination
+	- Ooooh, shiny!
+	- Sticky Situation
+	- Total Beelocation
+	- Bee our Guest
+
+**1.10**
+* Must complete all the achievements excluding the following ones: 
+	- Passing the Time
+	- Diamonds to You!
+	- Time for Stew
+	- Adventuring Time
+	- Sail the 7 Seas
+	- Wax on, Wax off
+	- Whatever Floats Your Goat
+	- The Healing Power of Friendship
+	- Bullseye
+	- Cover me in debris
+	- Hot Tourist Destination
+	- Ooooh, shiny!
+	- Sticky Situation
+	- Total Beelocation
+	- Bee our Guest
+	- Master Trader
+	- I've got a bad feeling about this
+	- Disenchanted
+	- Buy Low, Sell High
+	- Kill the Beast!
+	- Plethora of Cats
+Sound the Alarm!
+We're being attacked!
+
+**1.5**
+* Must complete all the achievements excluding the following ones: 
+	- Passing the Time
+	- Diamonds to You!
+	- Time for Stew
+	- Adventuring Time
+	- Sail the 7 Seas
+	- Wax on, Wax off
+	- Whatever Floats Your Goat
+	- The Healing Power of Friendship
+	- Bullseye
+	- Cover me in debris
+	- Hot Tourist Destination
+	- Ooooh, shiny!
+	- Sticky Situation
+	- Total Beelocation
+	- Bee our Guest
+	- Master Trader
+	- I've got a bad feeling about this
+	- Disenchanted
+	- Buy Low, Sell High
+	- Kill the Beast!
+	- Plethora of Cats
+	- Sound the Alarm!
+	- We're being attacked!
+	- Fruit on the Loom
+	- Zoologist
+	- Where Have You Been?
+	- Top of the World
+
+**1.2**
+* Must complete all the achievements excluding the following ones: 
+	- Passing the Time
+	- Diamonds to You!
+	- Time for Stew
+	- Adventuring Time
+	- Sail the 7 Seas
+	- Wax on, Wax off
+	- Whatever Floats Your Goat
+	- The Healing Power of Friendship
+	- Bullseye
+	- Cover me in debris
+	- Hot Tourist Destination
+	- Ooooh, shiny!
+	- Sticky Situation
+	- Total Beelocation
+	- Bee our Guest
+	- Master Trader
+	- I've got a bad feeling about this
+	- Disenchanted
+	- Buy Low, Sell High
+	- Kill the Beast!
+	- Plethora of Cats
+	- Sound the Alarm!
+	- We're being attacked!
+	- Fruit on the Loom
+	- Zoologist
+	- Where Have You Been?
+	- Top of the World
+	- Moskstraumen
+	- Echolocation
+	- One Pickle, Two Pickle, Sea Pickle, Four
+	- Do a Barrel Roll!
+	- Alternative Fuel
+	- Sleep with the Fishes
+	- Me Gold!
+	- I am a Marine Biologist 
+	- Ahoy!
+	- Castaway
+	- Atlantis?
