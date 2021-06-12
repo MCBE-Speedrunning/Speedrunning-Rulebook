@@ -89,8 +89,8 @@ for us to properly check whether the requirement has been met.
 	- Buy Low, Sell High
 	- Kill the Beast!
 	- Plethora of Cats
-Sound the Alarm!
-We're being attacked!
+	- Sound the Alarm!
+	- We're being attacked!
 
 **1.5**
 * Must complete all the achievements excluding the following ones: 
@@ -162,3 +162,6 @@ We're being attacked!
 	- Ahoy!
 	- Castaway
 	- Atlantis?
+
+**More** 
+*  A list with all the **required** achievements can be found [here](https://docs.google.com/document/d/1BcvyUQxFTyzjxNCppDINUhwPVa8n6yZ-Ghq4ZDNshTE/edit?usp=sharing). 
