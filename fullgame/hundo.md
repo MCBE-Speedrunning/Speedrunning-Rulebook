@@ -162,6 +162,3 @@ for us to properly check whether the requirement has been met.
 	- Ahoy!
 	- Castaway
 	- Atlantis?
-
-**More** 
-*  A list with all the **required** achievements can be found [here](https://docs.google.com/document/d/1BcvyUQxFTyzjxNCppDINUhwPVa8n6yZ-Ghq4ZDNshTE/edit?usp=sharing). 
