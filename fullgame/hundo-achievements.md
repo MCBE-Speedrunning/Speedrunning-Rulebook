@@ -6,7 +6,7 @@
 speedrun.
 
 **1.17**
-* Must complete the following achievements: 
+* Must complete the following achievements:
 	- Taking Inventory
 	- Getting Wood
 	- Benchmarking
@@ -27,7 +27,7 @@ speedrun.
 	- DIAMONDS!
 	- Into the Nether
 	- Return to Sender
-	- Into Fire 
+	- Into Fire
 	- Local Brewery
 	- The End?
 	- The End.
@@ -59,14 +59,14 @@ speedrun.
 	- Archer
 	- Tie Dye Outfit
 	- Trampoline
-	- Camouflage 
+	- Camouflage
 	- Map Room
 	- Freight Station
 	- Smelt Everything
 	- Taste of Your Own Medicine
 	- Inception
 	- Saddle Up
-	- Artificial Selection 
+	- Artificial Selection
 	- Free Diver
 	- Rabbit Season
 	- The Deep End
@@ -114,7 +114,7 @@ speedrun.
 	- The Healing Power of Friendship
 
 **1.16**
-* Must complete the following achievements: 
+* Must complete the following achievements:
 	- Taking Inventory
 	- Getting Wood
 	- Benchmarking
@@ -135,7 +135,7 @@ speedrun.
 	- DIAMONDS!
 	- Into the Nether
 	- Return to Sender
-	- Into Fire 
+	- Into Fire
 	- Local Brewery
 	- The End?
 	- The End.
@@ -167,14 +167,14 @@ speedrun.
 	- Archer
 	- Tie Dye Outfit
 	- Trampoline
-	- Camouflage 
+	- Camouflage
 	- Map Room
 	- Freight Station
 	- Smelt Everything
 	- Taste of Your Own Medicine
 	- Inception
 	- Saddle Up
-	- Artificial Selection 
+	- Artificial Selection
 	- Free Diver
 	- Rabbit Season
 	- The Deep End
@@ -219,7 +219,7 @@ speedrun.
 	- Hot tourist destination
 
 **1.14**
-* Must complete the following achievements: 
+* Must complete the following achievements:
 	- Taking Inventory
 	- Getting Wood
 	- Benchmarking
@@ -240,7 +240,7 @@ speedrun.
 	- DIAMONDS!
 	- Into the Nether
 	- Return to Sender
-	- Into Fire 
+	- Into Fire
 	- Local Brewery
 	- The End?
 	- The End.
@@ -272,14 +272,14 @@ speedrun.
 	- Archer
 	- Tie Dye Outfit
 	- Trampoline
-	- Camouflage 
+	- Camouflage
 	- Map Room
 	- Freight Station
 	- Smelt Everything
 	- Taste of Your Own Medicine
 	- Inception
 	- Saddle Up
-	- Artificial Selection 
+	- Artificial Selection
 	- Free Diver
 	- Rabbit Season
 	- The Deep End
@@ -341,7 +341,7 @@ speedrun.
 	- DIAMONDS!
 	- Into the Nether
 	- Return to Sender
-	- Into Fire 
+	- Into Fire
 	- Local Brewery
 	- The End?
 	- The End.
@@ -373,14 +373,14 @@ speedrun.
 	- Archer
 	- Tie Dye Outfit
 	- Trampoline
-	- Camouflage 
+	- Camouflage
 	- Map Room
 	- Freight Station
 	- Smelt Everything
 	- Taste of Your Own Medicine
 	- Inception
 	- Saddle Up
-	- Artificial Selection 
+	- Artificial Selection
 	- Free Diver
 	- Rabbit Season
 	- The Deep End
@@ -418,7 +418,7 @@ speedrun.
 	- Master Trader
 
 **1.10**
-* Must complete the following achievements: 
+* Must complete the following achievements:
 	- Taking Inventory
 	- Getting Wood
 	- Benchmarking
@@ -439,7 +439,7 @@ speedrun.
 	- DIAMONDS!
 	- Into the Nether
 	- Return to Sender
-	- Into Fire 
+	- Into Fire
 	- Local Brewery
 	- The End?
 	- The End.
@@ -471,14 +471,14 @@ speedrun.
 	- Archer
 	- Tie Dye Outfit
 	- Trampoline
-	- Camouflage 
+	- Camouflage
 	- Map Room
 	- Freight Station
 	- Smelt Everything
 	- Taste of Your Own Medicine
 	- Inception
 	- Saddle Up
-	- Artificial Selection 
+	- Artificial Selection
 	- Free Diver
 	- Rabbit Season
 	- The Deep End
@@ -512,7 +512,7 @@ speedrun.
 	- Fruit on the Loom
 
 **1.5**
-* Must complete the following achievements: 
+* Must complete the following achievements:
 	- Taking Inventory
 	- Getting Wood
 	- Benchmarking
@@ -533,7 +533,7 @@ speedrun.
 	- DIAMONDS!
 	- Into the Nether
 	- Return to Sender
-	- Into Fire 
+	- Into Fire
 	- Local Brewery
 	- The End?
 	- The End.
@@ -565,14 +565,14 @@ speedrun.
 	- Archer
 	- Tie Dye Outfit
 	- Trampoline
-	- Camouflage 
+	- Camouflage
 	- Map Room
 	- Freight Station
 	- Smelt Everything
 	- Taste of Your Own Medicine
 	- Inception
 	- Saddle Up
-	- Artificial Selection 
+	- Artificial Selection
 	- Free Diver
 	- Rabbit Season
 	- The Deep End
@@ -602,7 +602,7 @@ speedrun.
 	- Moskstraumen
 
 **1.2**
-* Must complete the following achievements: 
+* Must complete the following achievements:
 	- Taking Inventory
 	- Getting Wood
 	- Benchmarking
@@ -623,7 +623,7 @@ speedrun.
 	- DIAMONDS!
 	- Into the Nether
 	- Return to Sender
-	- Into Fire 
+	- Into Fire
 	- Local Brewery
 	- The End?
 	- The End.
@@ -655,14 +655,14 @@ speedrun.
 	- Archer
 	- Tie Dye Outfit
 	- Trampoline
-	- Camouflage 
+	- Camouflage
 	- Map Room
 	- Freight Station
 	- Smelt Everything
 	- Taste of Your Own Medicine
 	- Inception
 	- Saddle Up
-	- Artificial Selection 
+	- Artificial Selection
 	- Free Diver
 	- Rabbit Season
 	- The Deep End

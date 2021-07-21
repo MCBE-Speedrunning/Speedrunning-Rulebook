@@ -16,7 +16,7 @@ for us to properly check whether the requirement has been met.
 * If you would rather see a list of achievements you must complete instead of
 achievements you should not, see [here](hundo-achievements.md).
 
-**1.17** 
+**1.17**
 * Must complete all the achievements excluding the following ones:
 	- Passing the Time
 	- Diamonds to You!
@@ -25,7 +25,7 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Sail the 7 Seas
 
 **1.16**
-* Must complete all the achievements excluding the following ones: 
+* Must complete all the achievements excluding the following ones:
 	- Passing the Time
 	- Diamonds to You!
 	- Time for Stew
@@ -36,7 +36,7 @@ achievements you should not, see [here](hundo-achievements.md).
 	- The Healing Power of Friendship
 
 **1.14**
-* Must complete all the achievements excluding the following ones: 
+* Must complete all the achievements excluding the following ones:
 	- Passing the Time
 	- Diamonds to You!
 	- Time for Stew
@@ -51,7 +51,7 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Ooooh, shiny!
 
 **1.11**
-* Must complete all the achievements excluding the following ones: 
+* Must complete all the achievements excluding the following ones:
 	- Passing the Time
 	- Diamonds to You!
 	- Time for Stew
@@ -69,7 +69,7 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Bee our Guest
 
 **1.10**
-* Must complete all the achievements excluding the following ones: 
+* Must complete all the achievements excluding the following ones:
 	- Passing the Time
 	- Diamonds to You!
 	- Time for Stew
@@ -95,7 +95,7 @@ achievements you should not, see [here](hundo-achievements.md).
 	- We're being attacked!
 
 **1.5**
-* Must complete all the achievements excluding the following ones: 
+* Must complete all the achievements excluding the following ones:
 	- Passing the Time
 	- Diamonds to You!
 	- Time for Stew
@@ -125,7 +125,7 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Top of the World
 
 **1.2**
-* Must complete all the achievements excluding the following ones: 
+* Must complete all the achievements excluding the following ones:
 	- Passing the Time
 	- Diamonds to You!
 	- Time for Stew
@@ -160,7 +160,7 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Alternative Fuel
 	- Sleep with the Fishes
 	- Me Gold!
-	- I am a Marine Biologist 
+	- I am a Marine Biologist
 	- Ahoy!
 	- Castaway
 	- Atlantis?
