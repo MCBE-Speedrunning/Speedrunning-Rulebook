@@ -63,6 +63,9 @@ advantage is banned.
 	assumed the runner knows the ore locations by heart.
 * All runs must be performed on a vanilla client.
 	- There is an exception to this rule for runners playing on Linux.
+* Runners are allowed to edit game options in the options.txt file of the game
+	- This allows the changes of any visual settings (e.g. vsync to decrease lag)
+	- Any changes that may be used to provide an advantage to the runner (e.g. gamma) are not allowed
 * Any other form of game modification / data pack is forbidden.
 
 ## Proof Rules
