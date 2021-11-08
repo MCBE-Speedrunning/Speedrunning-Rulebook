@@ -15,6 +15,7 @@ for us to properly check whether the requirement has been met.
 	when timing begins.
 * If you would rather see a list of achievements you must complete instead of
 achievements you should not, see [here](hundo-achievements.md).
+ * You are allowed to segment your run as long as you do not go in the world off recording/stream and you do not gain any achievements anywhere other than in the world on recording/stream. You are required to show the achievements at the start and at the end of every segment.
 
 **1.17**
 * Must complete all the achievements excluding the following ones:
