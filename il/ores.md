@@ -9,9 +9,10 @@
 	- Ingots count as ores.
 	- Iron nuggets, gold nuggets, and netherite scrap do not count as ores.
 * All ores must be in your inventory at the end of the run.
-* Timing ends the frame all ores are visible in your inventory/hotbar. 
+* Timing ends the frame the last ore enters your inventory. 
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
+* Inventory must be shown after the run to prove that every ore entered the inventory. (If not visible in hotbar)
 
 ## All Ores: Pre 1.16
 
