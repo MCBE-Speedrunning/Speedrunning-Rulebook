@@ -17,6 +17,14 @@ for us to properly check whether the requirement has been met.
 achievements you should not, see [here](hundo-achievements.md).
  * You are allowed to segment your run as long as you do not go in the world off recording/stream and you do not gain any achievements anywhere other than in the world on recording/stream. You are required to show the achievements at the start and at the end of every segment.
 
+**1.18**
+* Must complete all the achievements excluding the following ones:
+	- Passing the Time
+	- Diamonds to You!
+	- Time for Stew
+	- Adventuring Time
+	- Sail the 7 Seas
+
 **1.17**
 * Must complete all the achievements excluding the following ones:
 	- Passing the Time
@@ -24,6 +32,10 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+	- Feels Like Home
+	- Sound of Music
+	- Star trader
+	- Caves & Cliffs
 
 **1.16**
 * Must complete all the achievements excluding the following ones:
@@ -32,6 +44,10 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+	- Feels Like Home
+	- Sound of Music
+	- Star trader
+	- Caves & Cliffs
 	- Wax on, Wax off
 	- Whatever Floats Your Goat
 	- The Healing Power of Friendship
@@ -43,6 +59,10 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+	- Feels Like Home
+	- Sound of Music
+	- Star trader
+	- Caves & Cliffs
 	- Wax on, Wax off
 	- Whatever Floats Your Goat
 	- he Healing Power of Friendship
@@ -58,6 +78,10 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+	- Feels Like Home
+	- Sound of Music
+	- Star trader
+	- Caves & Cliffs
 	- Wax on, Wax off
 	- Whatever Floats Your Goat
 	- The Healing Power of Friendship
@@ -76,6 +100,10 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+	- Feels Like Home
+	- Sound of Music
+	- Star trader
+	- Caves & Cliffs
 	- Wax on, Wax off
 	- Whatever Floats Your Goat
 	- The Healing Power of Friendship
@@ -102,6 +130,10 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+	- Feels Like Home
+	- Sound of Music
+	- Star trader
+	- Caves & Cliffs
 	- Wax on, Wax off
 	- Whatever Floats Your Goat
 	- The Healing Power of Friendship
@@ -132,6 +164,10 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+	- Feels Like Home
+	- Sound of Music
+	- Star trader
+	- Caves & Cliffs
 	- Wax on, Wax off
 	- Whatever Floats Your Goat
 	- The Healing Power of Friendship
