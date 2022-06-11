@@ -17,103 +17,49 @@ for us to properly check whether the requirement has been met.
 achievements you should not, see [here](hundo-achievements.md).
  * You are allowed to segment your run as long as you do not go in the world off recording/stream and you do not gain any achievements anywhere other than in the world on recording/stream. You are required to show the achievements at the start and at the end of every segment.
 
-**1.18**
-* Must complete all the achievements excluding the following ones:
+**1.19**
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Passing the Time
 	- Diamonds to You!
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
 
+**1.18**
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
+	- With Our Powers Combined!
+	- Birthday Song
+	- It Spreads
+	- Sneak 100
+
 **1.17**
-* Must complete all the achievements excluding the following ones:
-	- Passing the Time
-	- Diamonds to You!
-	- Time for Stew
-	- Adventuring Time
-	- Sail the 7 Seas
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Feels Like Home
 	- Sound of Music
 	- Star trader
 	- Caves & Cliffs
 
 **1.16**
-* Must complete all the achievements excluding the following ones:
-	- Passing the Time
-	- Diamonds to You!
-	- Time for Stew
-	- Adventuring Time
-	- Sail the 7 Seas
-	- Feels Like Home
-	- Sound of Music
-	- Star trader
-	- Caves & Cliffs
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Wax on, Wax off
 	- Whatever Floats Your Goat
 	- The Healing Power of Friendship
 
 **1.14**
-* Must complete all the achievements excluding the following ones:
-	- Passing the Time
-	- Diamonds to You!
-	- Time for Stew
-	- Adventuring Time
-	- Sail the 7 Seas
-	- Feels Like Home
-	- Sound of Music
-	- Star trader
-	- Caves & Cliffs
-	- Wax on, Wax off
-	- Whatever Floats Your Goat
-	- he Healing Power of Friendship
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Bullseye
 	- Cover me in debris
 	- Hot Tourist Destination
 	- Ooooh, shiny!
 
 **1.11**
-* Must complete all the achievements excluding the following ones:
-	- Passing the Time
-	- Diamonds to You!
-	- Time for Stew
-	- Adventuring Time
-	- Sail the 7 Seas
-	- Feels Like Home
-	- Sound of Music
-	- Star trader
-	- Caves & Cliffs
-	- Wax on, Wax off
-	- Whatever Floats Your Goat
-	- The Healing Power of Friendship
-	- Bullseye
-	- Cover me in debris
-	- Hot Tourist Destination
-	- Ooooh, shiny!
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Sticky Situation
 	- Total Beelocation
 	- Bee our Guest
 
 **1.10**
-* Must complete all the achievements excluding the following ones:
-	- Passing the Time
-	- Diamonds to You!
-	- Time for Stew
-	- Adventuring Time
-	- Sail the 7 Seas
-	- Feels Like Home
-	- Sound of Music
-	- Star trader
-	- Caves & Cliffs
-	- Wax on, Wax off
-	- Whatever Floats Your Goat
-	- The Healing Power of Friendship
-	- Bullseye
-	- Cover me in debris
-	- Hot Tourist Destination
-	- Ooooh, shiny!
-	- Sticky Situation
-	- Total Beelocation
-	- Bee our Guest
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Master Trader
 	- I've got a bad feeling about this
 	- Disenchanted
@@ -124,72 +70,14 @@ achievements you should not, see [here](hundo-achievements.md).
 	- We're being attacked!
 
 **1.5**
-* Must complete all the achievements excluding the following ones:
-	- Passing the Time
-	- Diamonds to You!
-	- Time for Stew
-	- Adventuring Time
-	- Sail the 7 Seas
-	- Feels Like Home
-	- Sound of Music
-	- Star trader
-	- Caves & Cliffs
-	- Wax on, Wax off
-	- Whatever Floats Your Goat
-	- The Healing Power of Friendship
-	- Bullseye
-	- Cover me in debris
-	- Hot Tourist Destination
-	- Ooooh, shiny!
-	- Sticky Situation
-	- Total Beelocation
-	- Bee our Guest
-	- Master Trader
-	- I've got a bad feeling about this
-	- Disenchanted
-	- Buy Low, Sell High
-	- Kill the Beast!
-	- Plethora of Cats
-	- Sound the Alarm!
-	- We're being attacked!
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Fruit on the Loom
 	- Zoologist
 	- Where Have You Been?
 	- Top of the World
 
 **1.2**
-* Must complete all the achievements excluding the following ones:
-	- Passing the Time
-	- Diamonds to You!
-	- Time for Stew
-	- Adventuring Time
-	- Sail the 7 Seas
-	- Feels Like Home
-	- Sound of Music
-	- Star trader
-	- Caves & Cliffs
-	- Wax on, Wax off
-	- Whatever Floats Your Goat
-	- The Healing Power of Friendship
-	- Bullseye
-	- Cover me in debris
-	- Hot Tourist Destination
-	- Ooooh, shiny!
-	- Sticky Situation
-	- Total Beelocation
-	- Bee our Guest
-	- Master Trader
-	- I've got a bad feeling about this
-	- Disenchanted
-	- Buy Low, Sell High
-	- Kill the Beast!
-	- Plethora of Cats
-	- Sound the Alarm!
-	- We're being attacked!
-	- Fruit on the Loom
-	- Zoologist
-	- Where Have You Been?
-	- Top of the World
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Moskstraumen
 	- Echolocation
 	- One Pickle, Two Pickle, Sea Pickle, Four
