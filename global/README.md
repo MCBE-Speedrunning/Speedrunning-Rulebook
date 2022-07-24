@@ -19,6 +19,7 @@ categories unless explicitely stated otherwise.
 	rule.
 * The editing of any world settings after world creation is strictly forbidden.
 	- This includes changing gamemodes.
+* Reloading the world (quitting and loading the same world again) always puts the run into the glitched category.
 * While we do promote ingenuity and creativity from runners, do not attempt to
 be cheeky in regards to the rules. Exploiting loopholes in the rules that were
 clearly not intended to be exploited may result in your run being rejected.
