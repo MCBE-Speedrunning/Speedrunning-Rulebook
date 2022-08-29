@@ -13,6 +13,7 @@
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 * Inventory must be shown after the run to prove that every ore entered the inventory. (If not visible in hotbar)
+* You do not have to use the versions named in the version splits, they are only correlating to which items you have to collect
 
 ## All Ores: Pre 1.16
 
