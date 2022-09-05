@@ -5,18 +5,6 @@
 
 [Back](../README.md)
 
-## All Bosses
-## Pre 1.19
-* Must kill the following bosses:
-	- The Ender Dragon
-	- The Wither
-	- The Elder Guardian
-## 1.19+
-* Must kill the following bosses:
-	- The Ender Dragon
-	- The Wither
-	- The Elder Guardian
-	- The Warden
 * The use of glitches is required.
 	- If you did not use glitches, submit to
 	[Kill Bosses Glitchless](bosses-glitchless.md).
@@ -27,6 +15,19 @@
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 * You do not have to use the versions named in the version splits, they are only correlating to which bosses you must kill.
+
+## All Bosses (Pre 1.19)
+* Must kill the following bosses:
+	- The Ender Dragon
+	- The Wither
+	- The Elder Guardian
+
+## All Bosses (1.19+)
+* Must kill the following bosses:
+	- The Ender Dragon
+	- The Wither
+	- The Elder Guardian
+	- The Warden
 
 ## Wither
 
