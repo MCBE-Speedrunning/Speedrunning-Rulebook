@@ -12,6 +12,7 @@ of the following:
 	- Leggings
 	- Boots
 * The turtle shell helmet is not required.
+* You do not have to use the versions named in the version splits, they are only correlating to which items you have to collect
 * All armor sets must be in your inventory at the end of the run.
 * Timing ends the frame the last armor piece is visible in your inventory.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
