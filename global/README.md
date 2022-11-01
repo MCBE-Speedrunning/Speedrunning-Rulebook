@@ -54,14 +54,7 @@ world seed for every submission, but not mandatory
 
 * Any sort of texture pack or other visual modification that gives the runner an
 advantage is banned.
-	- An example of an illegal texture pack is an x-ray texture pack, or a
-	texture pack that outlines/highlights important blocks.
-	- An example of a legal texture pack is one that gives you higher
-	quality textures.
-	- It is always a good idea to ask a moderator about a texture packs
-	validity as certain exceptions **may** be made. For example, an ore
-	outlining texture pack **may** be allowed in a set seed run, where it is
-	assumed the runner knows the ore locations by heart.
+	- [For an incomplete list check out the list of attributes that make a texture pack illegal](#texture-packs)
 * All runs must be performed on a vanilla client.
 	- There is an exception to this rule for runners playing on Linux.
 * Runners are allowed to edit game options in the options.txt file of the game
@@ -129,3 +122,29 @@ however in the case of a tie.
 * Respawn Radius: Default
 * Use Experimental Gameplay: OFF
 * Activate Cheats: OFF
+
+## Texture Packs
+
+It is always a good idea to ask a moderator about a texture packs
+validity as certain exceptions **may** be made. 
+
+For example, an ore outlining texture pack **may** be allowed in a set seed run, 
+where it is assumed the runner knows the ore locations by heart.
+
+### Illegal Texture Packs
+
+If a texture pack has any of the following it's a safe bet that it is illegal:
+
+- Transparent inventory
+- Fullbright
+- X-Ray
+- Outlined Ores (or other special blocks)
+- Transparent water
+- No Fog
+
+### Legal Texture Packs
+
+All official texture packs, such as Plastic or Natural texture packs, are allowed,
+and so are any other texture packs that change the textures in a purely cosmetic 
+way without giving an unfair advantage to the player.
+
