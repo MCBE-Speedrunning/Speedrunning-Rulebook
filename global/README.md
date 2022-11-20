@@ -4,7 +4,6 @@
 
 **If you have any questions, the answer may be in our
 [FAQ](https://www.speedrun.com/mcbe/thread/vdv9t)**
-
 [Back](../README.md)
 
 ## General Rules
@@ -127,9 +126,6 @@ however in the case of a tie.
 
 It is always a good idea to ask a moderator about a texture packs
 validity as certain exceptions **may** be made. 
-
-For example, an ore outlining texture pack **may** be allowed in a set seed run, 
-where it is assumed the runner knows the ore locations by heart.
 
 ### Illegal Texture Packs
 
