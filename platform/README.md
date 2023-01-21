@@ -35,6 +35,7 @@ leaderboards if played via the [Linux Launcher](https://tinyurl.com/mcbelinux)
 	- PS5
 	- Xbox One
 	- Xbox Series X
+	- Xbox Series S
 	- Nintendo Switch
 	- fireTV
 * All input methods are legal with the exception of touchscreen.
