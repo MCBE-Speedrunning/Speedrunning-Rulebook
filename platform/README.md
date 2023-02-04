@@ -18,7 +18,7 @@
 ### Linux
 
 * Linux users may play the Pocket Edition of the game and submit to the PC
-leaderboards if played via the [Linux Launcher](https://tinyurl.com/mcbelinux)
+leaderboards if played via the [Linux Launcher](https://mcpelauncher.readthedocs.io/en/latest/getting_started/index.html)
 
 ## Mobile
 
