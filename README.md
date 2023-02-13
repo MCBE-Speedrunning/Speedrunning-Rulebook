@@ -36,6 +36,7 @@ Speedrunning Rulebook
 	- [Obtain All Ores](il/ores.md)
 	- [Obtain Item](il/item.md)
 	- [Obtain All Discs](il/discs.md)
+	- [Nether Reactor](il/nether-reactor.md)
 
 * Category Extension Specific Rules
 	- [1.16 Beta Solo](catext/beta.md)
