@@ -60,6 +60,9 @@ advantage is banned.
 	- This allows the changes of any visual settings (e.g. vsync to decrease lag)
 	- Any changes that may be used to provide an advantage to the runner (e.g. gamma) are not allowed
 * Any other form of game modification / data pack is forbidden.
+* Any form of external game assistance (Macros, scripts etc.) is forbidden. 
+    - Macros for resetting worlds are allowed. 
+    - A key mapper is allowed on mobile for dropping and changing changing perspective.
 
 ## Proof Rules
 
