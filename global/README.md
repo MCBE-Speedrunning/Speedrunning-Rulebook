@@ -130,9 +130,11 @@ however in the case of a tie.
 It is always a good idea to ask a moderator about a texture packs
 validity as certain exceptions **may** be made. 
 
-### Illegal Texture Packs
+### Illegal Resource Packs
 
-If a texture pack has any of the following it's a safe bet that it is illegal:
+> WARNING: Resource Packs are **forbidden** for random seed categories
+
+If a resource pack has any of the following it's a safe bet that it is illegal:
 
 - Transparent inventory
 - Fullbright
@@ -141,9 +143,9 @@ If a texture pack has any of the following it's a safe bet that it is illegal:
 - Transparent water
 - No Fog
 
-### Legal Texture Packs
+### Legal Resource Packs
 
-All official texture packs, such as Plastic or Natural texture packs, are allowed,
-and so are any other texture packs that change the textures in a purely cosmetic 
+All official resource packs, such as Plastic or Natural texture packs, are allowed,
+and so are any other resource packs that change the textures in a purely cosmetic 
 way without giving an unfair advantage to the player.
 
