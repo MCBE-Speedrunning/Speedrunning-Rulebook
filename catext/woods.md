@@ -39,3 +39,30 @@
 	- Oak
 	- Spruce
 	- Warped
+
+## 1.19+
+
+* Must collect the following woods:
+	- Acacia
+	- Birch
+	- Crimson
+	- Dark oak
+	- Jungle
+	- Oak
+	- Spruce
+	- Warped
+	- Mangrove
+
+## 1.20+
+
+* Must collect the following woods:
+	- Acacia
+	- Birch
+	- Crimson
+	- Dark oak
+	- Jungle
+	- Oak
+	- Spruce
+	- Warped
+	- Mangrove
+	- Cherry
