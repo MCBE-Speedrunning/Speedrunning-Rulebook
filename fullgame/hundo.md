@@ -23,7 +23,7 @@ achievements you should not, see [here](hundo-achievements.md).
   2. Lion Hunter (Pre 1.10 ONLY)
   3. The Haggler (Pre 1.11 ONLY)
 
-1.19
+1.20
 ----
 * Must complete all the achievements excluding the following ones and the ones in the versions above:
 	- Passing the Time
@@ -31,6 +31,13 @@ achievements you should not, see [here](hundo-achievements.md).
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+
+1.19
+----
+* Must complete all the achievements excluding the following ones and the ones in the versions above:
+	- Smithing with Style
+	- Planting the Past
+	- Careful Restoration
 
 1.18
 ----
