@@ -19,5 +19,9 @@
 * You must leave the world seed box blank.
 * Viewing the world seed before the end of the run is forbidden.
 * The use of resource packs is forbidden.
-    - For runs in the top 5 at the time of verification the resource
-      packs tab must be shown before or after the run
+    - For runs in the **top 5** of a **full game** category at the time
+      of verification the resource packs tab must be shown before or
+      after the run
+    - For **world record** runs of an **individual level** category at
+      the time of verification the resource packs tab must be shown
+      before or after the run
