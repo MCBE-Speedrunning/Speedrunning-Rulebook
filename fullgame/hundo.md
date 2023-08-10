@@ -17,11 +17,12 @@ for us to properly check whether the requirement has been met.
 achievements you should not, see [here](hundo-achievements.md).
  * You are allowed to segment your run as long as you do not go in the world off recording/stream and you do not gain any achievements anywhere other than in the world on recording/stream. You are required to show the achievements at the start and at the end of every segment.
  * You must play on the version that the version splits are named after, for example for a 1.16 100% you can play on 1.16.0, 1.16.1, 1.16.100 etc (You cannot complete a 1.16 100% run on 1.19 by only completing the necessary achievements for 1.16).
-* If one of those 3 achievements don't pop up, even though you did them,
+* If one of those 4 achievements don't pop up, even though you did them,
   you can put a time stamp of when you did it instead, you still have to do them
   1. Beaconator
-  2. Lion Hunter (Pre 1.10 ONLY)
-  3. The Haggler (Pre 1.11 ONLY)
+  2. Super Sonic
+  3. Lion Hunter (Pre 1.10 ONLY)
+  4. The Haggler (Pre 1.11 ONLY)
 
 1.20
 ----
