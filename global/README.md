@@ -142,6 +142,7 @@ If a resource pack has any of the following it's a safe bet that it is illegal:
 - Outlined Ores (or other special blocks)
 - Transparent water
 - No Fog
+- No Particles
 
 ### Legal Resource Packs
 
