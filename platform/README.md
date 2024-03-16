@@ -13,7 +13,7 @@
 
 ### Windows
 
-* You must play on the Windows 10 Edition of the game.
+* You must play on the Windows 10/11 Edition of the game.
 
 ### Linux
 
