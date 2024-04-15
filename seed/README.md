@@ -89,6 +89,11 @@ if ($Check) {
 }
 ```
 
+To open a powershell window press the windows button and "R", then type
+"powershell" and press enter. After pasting the script above remember to
+show the whole output to the end and close the window at the end before
+running the script again.
+
 Some runners may prefer to hide their username from the powershell
 window. This can be done by editing the profile file by running
 `notepad $PROFILE` and adding the following line:
