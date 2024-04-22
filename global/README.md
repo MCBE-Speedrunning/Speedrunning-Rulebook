@@ -91,6 +91,121 @@ of the run is strictly against the rules.
 		+ You may use whatever music you would like.
 * All videos must show the world creation process and the runner entering the
 newly created world.
+* On Playstation 4/5 for runs in the **top 5** of a **full game** or
+  **world record** runs of an **individual level** category at the time
+  of verification you should clip the entire run using the console's
+  clipping feature, and keep the entire raw video saved in your console,
+  as we may ask you for further proof. Once the run is verified, you may
+  delete the video. This doesn't apply for runs over an hour long (Max
+  clip length)
+* On windows for runs in the **top 5** of a **full game** or **world
+  record** runs of an **individual level** category at the time of
+  verification the following script must be ran in a new powershell
+  window:
+
+```pwsh
+param (
+	[Parameter(Mandatory=$false)] [string] $installationDir,
+	[Parameter(Mandatory=$false)] [string] $outputFile,
+	[Parameter(Mandatory=$false)] [bool] $Check = $false
+)
+$outputFile = if ([string]::IsNullOrEmpty($outputFile)) {
+	[string] $currentTime = Get-Date -Format "yyyy-MM-dd_HH-mm-ss"
+	[string] $desktopFolder = [Environment]::GetFolderPath([Environment+SpecialFolder]::Desktop);
+	[string] $outFolderName = "mcbe-speedrunning";
+	[string] $outFolder = Join-Path `
+		-Path $desktopFolder `
+		-ChildPath $outFolderName
+	if (-not (Test-Path $outFolder)) {
+		New-Item -Path $desktopFolder -Name $outFolderName -ItemType "directory" | Out-Null
+	}
+	Join-Path -Path $outFolder -ChildPath "Hashes_$currentTime.txt"
+} else {
+	$outputFile
+}
+
+if ([string]::IsNullOrEmpty($outputFile)) {
+	throw [System.IO.FileNotFoundException] "Couldn't find the output file. Please report this issue"
+}
+
+if ($Check) {
+	[string[]] $hashStrings = Get-Content -Path "$outputFile"
+	[string] $mainHash = $hashStrings -join ''
+	$(Get-FileHash -InputStream ([IO.MemoryStream]::new([char[]]$mainHash))).Hash
+} else {
+	[Microsoft.Windows.Appx.PackageManager.Commands.AppxPackage] $mcbeAppx = Get-AppxPackage -Name Microsoft.MinecraftUWP
+	$installationDir = if ([string]::IsNullOrEmpty($installationDir)) {
+		$mcbeAppx.InstallLocation
+	} else {
+		$installationDir
+	}
+
+	if ([string]::IsNullOrEmpty($installationDir)) {
+		throw [System.IO.FileNotFoundException] "Couldn't find the minecraft installation. Please report this issue"
+	}
+
+	[string] $mcbeStateFolder = Join-Path -Path $env:LOCALAPPDATA -ChildPath "Packages\$($mcbeAppx.Name)_$($mcbeAppx.PublisherId)\LocalState\games\com.mojang"
+	[string] $globalResourcePacksFile = $(Join-Path -Path $mcbeStateFolder -ChildPath "minecraftpe\global_resource_packs.json")
+	if ([System.IO.File]::Exists($globalResourcePacksFile)) {
+		[PSCustomObject] $globalResourcePacks = Get-Content -Path $globalResourcePacksFile | ConvertFrom-Json
+		echo "Activated global resource packs are 0? $($globalResourcePacks.Count -eq 0)"
+	} else {
+		echo "No global resources file found"
+	}
+	[System.IO.DirectoryInfo] $lastWorld = Get-ChildItem $(Join-Path -Path $mcbeStateFolder -ChildPath "minecraftWorlds") -Directory | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+	if ($lastWorld) {
+		[string] $worldResourcePacksFile = $(Join-Path -Path $lastWorld.FullName -ChildPath "world_resource_packs.json")
+		if ([System.IO.File]::Exists($worldResourcePacksFile)) {
+			[PSCustomObject] $worldResourcePacks = Get-Content -Path $worldResourcePacksFile | ConvertFrom-Json
+			echo "Activated latest world resource packs are 0? $($worldResourcePacks.Count -eq 0)"
+		} else {
+			echo "No world resource pack file found"
+		}
+		[string] $worldBehaviorPacksFile = $(Join-Path -Path $lastWorld.FullName -ChildPath "world_behavior_packs.json")
+		if ([System.IO.File]::Exists($worldBehaviorPacksFile)) {
+			[PSCustomObject] $worldBehaviorPacks = Get-Content -Path $worldBehaviorPacksFile | ConvertFrom-Json
+			echo "Activated latest world behaviour packs are 0? $($worldBehaviorPacks.Count -eq 0)"
+		} else {
+			echo "No world behaviour pack file found"
+		}
+	} else {
+		echo "No last world found"
+	}
+
+	[int] $totalFiles = (Get-ChildItem -Path $installationDir -Recurse -File).Count
+	[int] $progress = 0
+	[int] $updateInterval = [Math]::Ceiling($totalFiles / 100)
+
+	[string[]] $hashStrings = Get-ChildItem -Path $installationDir -Recurse -File | ForEach-Object {
+		$hash = Get-FileHash -Path "$($_.FullName)"
+		"$($_.Name)=$($hash.Hash)"
+
+		if (++$progress % $updateInterval -eq 0) {
+			$percentComplete = [Math]::Floor(($progress / $totalFiles) * 100)
+			Write-Progress -Activity "Calculating Hashes" -Status "Progress: $percentComplete%" -PercentComplete $percentComplete
+		}
+	}
+	$hashStrings | Out-File -FilePath $outputFile
+	[string] $mainHash = $hashStrings -join ''
+	$(Get-FileHash -InputStream ([IO.MemoryStream]::new([char[]]$mainHash))).Hash
+}
+```
+
+This script MUST be ran on random seed runs, and it is highly
+recommended to run it on set seed runs.
+
+To open a powershell window press the windows button and "R", then type
+"powershell" and press enter. After pasting the script above remember to
+show the whole output to the end and close the window at the end before
+running the script again.
+
+Some runners may prefer to hide their username from the powershell
+window. This can be done by editing the profile file by running
+`notepad $PROFILE` and adding the following line:
+
+```pwsh
+function prompt {"PS: >"}
+```
 
 ## Timing Rules
 
