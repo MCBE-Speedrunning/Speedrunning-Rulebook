@@ -100,8 +100,8 @@ newly created world.
   clip length)
 * On windows for runs in the **top 5** of a **full game** or **world
   record** runs of an **individual level** category at the time of
-  verification the following script must be ran in a new powershell
-  window:
+  verification the following script MUST be ran at the START or END of
+  a run in the same video in a new powershell window:
 
 ```pwsh
 param (
@@ -191,8 +191,8 @@ if ($Check) {
 }
 ```
 
-This script MUST be ran on random seed runs, and it is highly
-recommended to run it on set seed runs.
+This script MUST be ran at the START or END of random seed runs in the
+same video, and it is highly recommended to run it on set seed runs as well.
 
 To open a powershell window press the windows button and "R", then type
 "powershell" and press enter. After pasting the script above remember to
