@@ -15,7 +15,7 @@ of the following:
 * You do not have to use the versions named in the version splits; they only
 correlate to which items you have to collect.
 * All armor sets must be in your inventory at the end of the run.
-* Timing ends on the frame the last armor piece is visible in your inventory.
+* Timing ends (on the frame) when the last armor piece is visible in your inventory.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 
