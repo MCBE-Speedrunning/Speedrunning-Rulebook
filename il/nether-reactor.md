@@ -6,7 +6,7 @@
 [Back](../README.md)
 
 * Activate a nether reactor.
-* Timing ends the frame the nether reactor block turns red.
+* Timing ends (on the frame) when the nether reactor block turns red.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 

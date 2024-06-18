@@ -7,6 +7,6 @@
 
 * Beat the game as fast as possible without the use of glitches.
 
-* Timing ends the frame the screen begins to fade after exiting the end.
+* Timing ends (on the frame) when the End Poem fades in upon exiting the End.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.

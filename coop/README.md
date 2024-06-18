@@ -9,23 +9,27 @@
 
 ## General
 
-* It is required that multiple players take part of the run.
+* It is required that multiple players take part in the run.
 * Non-host players are allowed to join the world after the run has started and
-leave before it has ended.
+to leave before it has ended.
 
 ## Run Submission
 
-* Submit your run under the hosts platform.
-* If multiple perspectives are recorded, put the hosts video in the video box
-with the other videos in the submission description.
+* Submit your run under the host's platform.
+* If multiple perspectives are recorded, place the host's video in the video box
+and the other videos in the submission description.
 
 ## Proof
-* You need to show the Server Configuration (dedicated server) and the World Creation process (dedicated server + realms).
-	- This means that if you are hosting your own server, you need to show the server.properties file (you are allowed to blur out any IPs and ports), as well as the world creation. Realms need to show the world creation settings and the process like any other speedrun.
+* You need to show the Server Configuration (dedicated server) and the World
+Creation process (dedicated server + realms).
+	- This means that if you are hosting your own server, you need to show the
+	server.properties file (you are allowed to blur out any IPs and ports), as
+	well as the world creation. Realms need to show the world creation settings
+	and the process like any other speedrun.
 
-* Timing ends the frame that we can visibly see that the final objective has
+* Timing ends (on the frame) that we can visibly see that the final objective has
 been completed.
 	- This means that if only the host has a video but a second player
-	completes the final objective, timing ends the frame that either the
-	second player can be seem completing the objective in the hosts video,
+	completes the final objective, timing ends (on the frame) that either the
+	second player can be seen completing the objective in the host's video,
 	or the frame the host completes it themselves.

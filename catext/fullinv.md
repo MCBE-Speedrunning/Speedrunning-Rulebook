@@ -7,6 +7,6 @@
 
 * Fill all 36 inventory slots of your main inventory.
 * Each slot must contain a unique item.
-* Timing ends on frame full inventory is visible.
+* Timing ends (on the frame) where the full inventory is visible.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.

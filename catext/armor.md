@@ -5,16 +5,17 @@
 
 [Back](../README.md)
 
-* Must collect all armor sets corresponding to your subcategory which consist
+* Must collect all armor sets corresponding to your subcategory, which consist
 of the following:
 	- Helmet
 	- Chestplate
 	- Leggings
 	- Boots
 * The turtle shell helmet is not required.
-* You do not have to use the versions named in the version splits, they are only correlating to which items you have to collect
+* You do not have to use the versions named in the version splits; they only
+correlate to which items you have to collect.
 * All armor sets must be in your inventory at the end of the run.
-* Timing ends the frame the last armor piece is visible in your inventory.
+* Timing ends on the frame the last armor piece is visible in your inventory.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 

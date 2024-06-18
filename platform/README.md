@@ -44,5 +44,5 @@ leaderboards if played via the [Linux Launcher](https://mcpelauncher.readthedocs
 
 * Virtual Reality runs fall under the category of the physical device the game
 is being run on. This means that if the game is being run on a PC and streamed
-to a headset you must submit to PC, and if the game is being run on a Console
+to a headset, you must submit to PC, and if the game is being run on a Console,
 you must submit to Console, etc.
