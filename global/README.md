@@ -10,7 +10,7 @@
 
 * The use of external tools that modify the game in any way, shape, or form is
 forbidden.
-* The, as of now, Android-exclusive 1.2.6.* duping glitch is banned from all
+* The, as of now, Mobile-exclusive 1.2.6.* duping glitch is banned from all
 categories unless explicitly stated otherwise.
 * In-game commands must not be executed during the run.
 	- This includes glitch runs, where runners often attempt to use the
@@ -23,7 +23,7 @@ the run into the glitched category.
 * While we do promote ingenuity and creativity from runners, do not attempt to
 be cheeky in regards to the rules. Exploiting loopholes in the rules that were
 clearly not intended to be exploited may result in your run being rejected.
-	- If you do find a loophole, we ask taht you point it out to a moderator
+	- If you do find a loophole, we ask that you point it out to a moderator
 	instead.
 
 ## Submission Rules
@@ -37,7 +37,7 @@ clearly not intended to be exploited may result in your run being rejected.
 * If you submit a video significantly longer than the duration of the run,
 specify timestamps of the run's beginning and end in the submission
 description.
-	- This is not a required rule; however, it is strongly recommend as it
+	- This is not a required rule; however, it is strongly recommended as it
 	saves the moderators a lot of time when verifying.
 	- If the queue is long enough, your run may be rejected with a message
 	requesting you resubmit with timestamps.

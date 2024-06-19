@@ -28,7 +28,7 @@ player has cheated in a game outside of Bedrock Edition, action will be taken.
 	generally placed on the suspicious players list but allowed to submit
 	runs.
 	- Players caught cheating in other games within the Minecraft series,
-	such as Java Edition and Legacy Edition, will generally be banned from our
+	such as Java Edition and Legacy Edition, will generally be banned from the
 	leaderboards.
 
 ## Bannable Offences

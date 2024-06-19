@@ -39,4 +39,4 @@ the Elder Guardian.
 ## Warden
 
 * The same rules apply as for All Bosses, however you are only required to kill
-the Warden.
+the warden.
