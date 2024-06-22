@@ -10,12 +10,12 @@
 ## No Touchscreen Glitch
 
 * The use of any glitches that require the runner to have a touchscreen device
-are forbidden.
+is forbidden.
 
 ## Touchscreen Glitch
 
 * The use of any glitches that require the runner to have a touchscreen device
-are required.
-	- Any glitches used must provide some sort of advantage, performing a
+is required.
+	- Any glitches used must provide some sort of advantage; performing a
 	visual bug that does not affect gameplay to submit your glitchless run
 	to glitched is forbidden.

@@ -5,7 +5,8 @@
 
 [Back](../README.md)
 
-* Must enter the nether.
-* Timing ends the frame the loading screen appears after entering the nether.
+* Must enter the Nether.
+* Timing ends (on the frame) when the loading screen appears upon entering the
+Nether.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.

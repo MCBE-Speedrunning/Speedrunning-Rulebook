@@ -9,9 +9,9 @@
 * The use of glitches is required.
 	- If you did not use glitches, submit to
 	[Any% Glitchless](any-glitchless.md).
-	- Any glitches used must provide some sort of advantage, performing a
+	- Any glitches used must provide some sort of advantage; performing a
 	visual bug that does not affect gameplay to submit your glitchless run
 	to glitched is forbidden.
-* Timing ends the frame the screen begins to fade after exiting the end.
+* Timing ends (on the frame) when the End Poem fades in upon exiting the End.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.

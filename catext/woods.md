@@ -6,8 +6,9 @@
 [Back](../README.md)
 
 * All woods must be in your inventory at the end of the run.
-* You do not have to use the versions named in the version splits, they are only correlating to which items you have to collect
-* Timing ends the frame the last wood is visible in your inventory.
+* You do not have to use the versions named in the version splits; they only
+correlate to which items you have to collect.
+* Timing ends (on the frame) when the last wood is visible in your inventory.
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
 

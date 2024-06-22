@@ -9,13 +9,15 @@
 	- Ingots count as ores.
 	- Iron nuggets, gold nuggets, and netherite scrap do not count as ores.
 * All ores must be in your inventory at the end of the run.
-* Timing ends the frame the last ore enters your inventory. 
+* Timing ends (on the frame) when the last ore enters your inventory. 
 	- See the [timing rules](../global/README.md#timing-rules) regarding
 	when timing begins.
-* Inventory must be shown after the run to prove that every ore entered the inventory. (If not visible in hotbar)
-* You do not have to use the versions named in the version splits, they are only correlating to which items you have to collect
+* Inventory must be shown after the run to prove that every ore entered the
+inventory. (If not visible in the hotbar)
+* You do not have to use the versions named in the version splits; they only
+correlate to which items you have to collect.
 
-## All Ores: Pre 1.16
+## All Ores: Pre-1.16
 
 * Must collect the following ores:
 	- Coal
@@ -54,7 +56,7 @@
 	- Nether Quartz
 	- Ancient Debris
 
-## All Overworld Ores: Pre 1.16
+## All Overworld Ores: Pre-1.16
 
 * Must collect the following ores:
 	- Coal
@@ -65,7 +67,7 @@
 	- Diamond
 	- Emerald
 
-## All Overworld Ores - No Emerald: Pre 1.16
+## All Overworld Ores - No Emerald: Pre-1.16
 
 * Must collect the following ores:
 	- Coal

@@ -8,35 +8,38 @@
 
 ## General Rules
 
-* The use of external tools that modify the game in any way, shape, or form are
+* The use of external tools that modify the game in any way, shape, or form is
 forbidden.
-* The as of now Android-exclusive 1.2.6.* duping glitch is banned from all
-categories unless explicitely stated otherwise.
+* The, as of now, Mobile-exclusive 1.2.6.* duping glitch is banned from all
+categories unless explicitly stated otherwise.
 * In-game commands must not be executed during the run.
 	- This includes glitch runs, where runners often attempt to use the
 	command glitch. The command glitch is forbidden as it violates this
 	rule.
 * The editing of any world settings after world creation is strictly forbidden.
-	- This includes changing gamemodes.
-* Reloading the world (quitting and loading the same world again) always puts the run into the glitched category.
+	- This includes changing game modes.
+* Reloading the world (quitting and loading the same world again) always puts
+the run into the glitched category.
 * While we do promote ingenuity and creativity from runners, do not attempt to
 be cheeky in regards to the rules. Exploiting loopholes in the rules that were
 clearly not intended to be exploited may result in your run being rejected.
-	- If you do find a loophole, we ask you point it out to a moderator instead.
+	- If you do find a loophole, we ask that you point it out to a moderator
+	instead.
 
 ## Submission Rules
 
 * Runners are permitted to run on any version of the game that they would like.
 	- Certain Individual Level categories may require that you run on a
 	specific version or range of versions.
-	- Full game runs performed on beta versions of the game must be submit
+	- Full game runs performed on beta versions of the game must be submitted
 	to the beta category on our category extensions.
-	- Beta versions of the game are not permitted for individual level runs.
+	- Beta versions of the game are not permitted for Individual Level runs.
 * If you submit a video significantly longer than the duration of the run,
-specify timestamps of the runs beginning and end in the submission description.
-	- This is not a required rule, however it is strongly recommend as it
+specify timestamps of the run's beginning and end in the submission
+description.
+	- This is not a required rule; however, it is strongly recommended as it
 	saves the moderators a lot of time when verifying.
-	- If the queue is long enough your run may be rejected with a message
+	- If the queue is long enough, your run may be rejected with a message
 	requesting you resubmit with timestamps.
 * Top runners must be prepared to send extra evidence for their runs, which may
 include:
@@ -44,25 +47,27 @@ include:
 	- Recordings of past attempts
 	- The world folder of the run (limited to PC runs)
 	- The world seed (for random seed runs) - it is encouraged to send the
-world seed for every submission, but not mandatory
+world seed for every submission, but it is not mandatory
 * Other runners should also be ready to send this extra evidence if required
-(though it will not be required in most cases)
+(though it will not be required in most cases).
 
 
 ## Game Modification Rules
 
-* Any sort of texture pack or other visual modification that gives the runner an
-advantage is banned.
-	- [For an incomplete list check out the list of attributes that make a texture pack illegal](#texture-packs)
+* Any sort of texture pack or other visual modification that gives the runner
+an advantage is banned.
+	- [For an incomplete list, check out the list of attributes that make a
+	texture pack illegal.](#texture-packs)
 * All runs must be performed on a vanilla client.
 	- There is an exception to this rule for runners playing on Linux.
-* Runners are allowed to edit game options in the options.txt file of the game
-	- This allows the changes of any visual settings (e.g. vsync to decrease lag)
-	- Any changes that may be used to provide an advantage to the runner (e.g. gamma) are not allowed
+* Runners are allowed to edit game options in the options.txt file of the game.
+	- This allows the change of any visual settings (e.g., vsync to decrease lag).
+	- Any changes that may be used to provide an advantage to the runner
+	(e.g., gamma) are not allowed.
 * Any other form of game modification / data pack is forbidden.
-* Any form of external game assistance (Macros, scripts etc.) is forbidden. 
+* Any form of external game assistance (macros, scripts etc.) is forbidden. 
     - Macros for resetting worlds are allowed. 
-    - A key mapper is allowed on mobile for dropping and changing changing perspective.
+    - A key mapper is allowed on mobile for dropping and changing perspective.
 
 ## Proof Rules
 
@@ -73,13 +78,13 @@ advantage is banned.
 	- In the case of cooperative runs, only the host is required to provide
 	proof.
 	- Any video hosting service is allowed, and the video does not need to
-	be public. It is however strongly recommend that you submit public
+	be public. It is, however, strongly recommended that you submit public
 	videos on YouTube.
-		+ If a video is not public, it must either be unlisted, or be
-		shared with a moderator in another form.
-	- There are no minimum quality settings, however at a minimum we
+		+ If a video is not public, it must either be unlisted or shared with
+		a moderator in another form.
+	- There are no minimum quality settings; however, at a minimum, we
 	recommend 480p video at 30fps.
-	- A run may be rejected if there are too many dropped frames as it
+	- A run may be rejected if there are too many dropped frames, as it
 	makes accurate retiming impossible.
 	- Audio is not required.
 * It is not required to have a timer.
@@ -93,15 +98,15 @@ of the run is strictly against the rules.
 newly created world.
 * On Playstation 4/5 for runs in the **top 5** of a **full game** or
   **world record** runs of an **individual level** category at the time
-  of verification you should clip the entire run using the console's
-  clipping feature, and keep the entire raw video saved in your console,
+  of verification, you should clip the entire run using the console's
+  clipping feature and keep the entire raw video saved in your console,
   as we may ask you for further proof. Once the run is verified, you may
-  delete the video. This doesn't apply for runs over an hour long (Max
-  clip length)
-* On windows for runs in the **top 5** of a **full game** or **world
+  delete the video. This doesn't apply for runs over an hour long (max
+  clip length).
+* On Windows for runs in the **top 5** of a **full game** or **world
   record** runs of an **individual level** category at the time of
-  verification the following script MUST be ran at the START or END of
-  a run in the same video in a new powershell window:
+  verification, the following script MUST be run at the START or END of
+  a run in the same video in a new PowerShell window:
 
 ```pwsh
 param (
@@ -191,15 +196,15 @@ if ($Check) {
 }
 ```
 
-This script MUST be ran at the START or END of random seed runs in the
+This script MUST be run at the START or END of random seed runs in the
 same video, and it is highly recommended to run it on set seed runs as well.
 
-To open a powershell window press the windows button and "R", then type
-"powershell" and press enter. After pasting the script above remember to
+To open a PowerShell window, press the windows button and "R", then type
+"powershell" and press enter. After pasting the script above, remember to
 show the whole output to the end and close the window at the end before
 running the script again.
 
-Some runners may prefer to hide their username from the powershell
+Some runners may prefer to hide their username from the PowerShell
 window. This can be done by editing the profile file by running
 `notepad $PROFILE` and adding the following line:
 
@@ -216,8 +221,8 @@ function prompt {"PS: >"}
 	- Opening your inventory, punching, and mining all count as movement.
 * You may wait for a reasonable amount of time at the start of your run for the
 world to load.
-* Full game runs time with full second precision. Milliseconds will be used
-however in the case of a tie.
+* Full game runs time with full second precision. Milliseconds will be used,
+however, in the case of a tie.
 * Individual level runs are timed with millisecond precision.
 
 ## World Creation Rules
@@ -226,7 +231,7 @@ however in the case of a tie.
 
 * Gamemode: Survival
 * Difficulty: Easy, Normal, or Hard
-	- Peaceful is allowed for peaceful specific categories.
+	- Peaceful is allowed for peaceful-specific categories.
 * Starting Map: OFF
 * Bonus Chest: OFF
 * Default Player Permissions: Member
@@ -242,14 +247,14 @@ however in the case of a tie.
 
 ## Texture Packs
 
-It is always a good idea to ask a moderator about a texture packs
-validity as certain exceptions **may** be made. 
+It is always a good idea to ask a moderator about a texture pack's validity,
+as certain exceptions **may** be made. 
 
 ### Illegal Resource Packs
 
 > WARNING: Resource Packs are **forbidden** for random seed categories
 
-If a resource pack has any of the following it's a safe bet that it is illegal:
+If a resource pack has any of the following, it's a safe bet that it is illegal:
 
 - Transparent inventory
 - Fullbright
@@ -262,6 +267,6 @@ If a resource pack has any of the following it's a safe bet that it is illegal:
 ### Legal Resource Packs
 
 All official resource packs, such as Plastic or Natural texture packs, are allowed,
-and so are any other resource packs that change the textures in a purely cosmetic 
+as are any other resource packs that change the textures in a purely cosmetic 
 way without giving an unfair advantage to the player.
 
