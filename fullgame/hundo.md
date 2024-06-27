@@ -27,11 +27,11 @@ achievements for 1.16).
 them, you can put a timestamp of when you did it instead. You still have to
 complete them:
   1. Beaconator
-  2. Super Sonic
+  2. Super Sonic (May be fixed by relogging before attempting this achievement)
   3. Lion Hunter (Pre-1.10 ONLY)
   4. The Haggler (Pre-1.11 ONLY)
 
-1.20
+1.21
 ----
 * Must complete all the achievements excluding the following ones and the ones
 in the versions above:
@@ -40,6 +40,15 @@ in the versions above:
 	- Time for Stew
 	- Adventuring Time
 	- Sail the 7 Seas
+
+1.20
+----
+* Must complete all the achievements excluding the following ones and the ones
+in the versions above:
+	- Revaulting
+	- Who Needs Rockets?
+	- Crafters Crafting Crafters
+	- Over-Overkill
 
 1.19
 ----
