@@ -28,7 +28,7 @@ correlate to which items you have to collect.
 	- Ward
 	- Wait
 
-## 1.16+
+## 1.16-1.17
 
 * Must collect the following discs:
 	- 11
@@ -44,3 +44,84 @@ correlate to which items you have to collect.
 	- Strad
 	- Ward
 	- Wait
+
+## 1.18
+
+* Must collect the following discs:
+	- 11
+	- 13
+	- Blocks
+	- Cat
+	- Chirp
+	- Far
+	- Mall
+	- Mellohi
+	- Otherside
+	- Pigstep
+	- Stal
+	- Strad
+	- Ward
+	- Wait
+
+## 1.19
+
+* Must collect the following discs:
+	- 5
+	- 11
+	- 13
+	- Blocks
+	- Cat
+	- Chirp
+	- Far
+	- Mall
+	- Mellohi
+	- Otherside
+	- Pigstep
+	- Stal
+	- Strad
+	- Ward
+	- Wait
+
+## 1.20
+
+* Must collect the following discs:
+	- 5
+	- 11
+	- 13
+	- Blocks
+	- Cat
+	- Chirp
+	- Far
+	- Mall
+	- Mellohi
+	- Otherside
+	- Pigstep
+	- Relic
+	- Stal
+	- Strad
+	- Ward
+	- Wait
+
+## 1.21
+
+* Must collect the following discs:
+	- 5
+	- 11
+	- 13
+	- Blocks
+	- Cat
+	- Chirp
+	- Creator
+	- Creator (Music Box)
+	- Far
+	- Mall
+	- Mellohi
+	- Otherside
+	- Pigstep
+	- Precipice
+	- Relic
+	- Stal
+	- Strad
+	- Ward
+	- Wait
+
