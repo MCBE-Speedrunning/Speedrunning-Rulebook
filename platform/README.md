@@ -7,6 +7,10 @@
 
 [Back](../README.md)
 
+## General
+
+* Emulators are banned, unless stated otherwise below.
+
 ## PC
 
 * All input methods are legal with the exception of touchscreen.
@@ -15,10 +19,11 @@
 
 * You must play on the Windows 10/11 Edition of the game.
 
-### Linux
+### Linux / MacOS
 
-* Linux users may play the Pocket Edition of the game and submit to the PC
-leaderboards if played via the [Linux Launcher](https://mcpelauncher.readthedocs.io/en/latest/getting_started/index.html)
+* Linux and MacOS users may play the Pocket Edition of the game and
+submit to the PC leaderboards if played via the
+[Minecraft Bedrock Launcher](https://mcpelauncher.readthedocs.io/en/latest/getting_started/index.html)
 
 ## Mobile
 
