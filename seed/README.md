@@ -18,7 +18,6 @@
 
 * You must leave the world seed box blank.
 * Viewing the world seed before the end of the run is forbidden.
-* The use of resource packs is forbidden.
 
 ## Additional evidence
 

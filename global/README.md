@@ -54,10 +54,7 @@ world seed for every submission, but it is not mandatory
 
 ## Game Modification Rules
 
-* Any sort of texture pack or other visual modification that gives the runner
-an advantage is banned.
-	- [For an incomplete list, check out the list of attributes that make a
-	texture pack illegal.](#texture-packs)
+* Any sort of texture pack is banned.
 * All runs must be performed on a vanilla client.
 	- There is an exception to this rule for runners playing on Linux.
 * Runners are allowed to edit game options in the options.txt file of the game.
@@ -244,29 +241,3 @@ however, in the case of a tie.
 * Respawn Radius: Default
 * Use Experimental Gameplay: OFF
 * Activate Cheats: OFF
-
-## Texture Packs
-
-It is always a good idea to ask a moderator about a texture pack's validity,
-as certain exceptions **may** be made. 
-
-### Illegal Resource Packs
-
-> WARNING: Resource Packs are **forbidden** for random seed categories
-
-If a resource pack has any of the following, it's a safe bet that it is illegal:
-
-- Transparent inventory
-- Fullbright
-- X-Ray
-- Outlined Ores (or other special blocks)
-- Transparent water
-- No Fog
-- No Particles
-
-### Legal Resource Packs
-
-All official resource packs, such as Plastic or Natural texture packs, are allowed,
-as are any other resource packs that change the textures in a purely cosmetic 
-way without giving an unfair advantage to the player.
-
