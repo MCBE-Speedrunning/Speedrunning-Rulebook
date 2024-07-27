@@ -5,5 +5,5 @@
 
 [Back](../README.md)
 
-* All [SSP Solo rules](ssp.md) apply to this category.
+* All [SSP Solo rules](./ssp.md) apply to this category.
 * All [cooperative specific rules](../coop/README.md) apply to this category.

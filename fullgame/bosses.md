@@ -7,7 +7,7 @@
 
 * The use of glitches is required.
 	- If you did not use glitches, submit to
-	[Kill Bosses Glitchless](bosses-glitchless.md).
+	[Kill Bosses Glitchless](./bosses-glitchless.md).
 	- Any glitches used must provide some sort of advantage, performing a
 	visual bug that does not affect gameplay to submit your glitchless run
 	to glitched is forbidden.

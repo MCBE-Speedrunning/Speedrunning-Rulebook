@@ -8,7 +8,7 @@
 * Beat the game as fast as possible with no in-game restrictions.
 * The use of glitches is required.
 	- If you did not use glitches, submit to
-	[Any% Glitchless](any-glitchless.md).
+	[Any% Glitchless](./any-glitchless.md).
 	- Any glitches used must provide some sort of advantage; performing a
 	visual bug that does not affect gameplay to submit your glitchless run
 	to glitched is forbidden.

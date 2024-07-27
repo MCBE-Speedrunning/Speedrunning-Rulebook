@@ -5,6 +5,6 @@
 
 [Back](../README.md)
 
-* All [Kill Bosses Glitchless rules](bosses-glitchless.md) apply to this
+* All [Kill Bosses Glitchless rules](./bosses-glitchless.md) apply to this
 category.
 * All [cooperative specific rules](../coop/README.md) apply to this category.
