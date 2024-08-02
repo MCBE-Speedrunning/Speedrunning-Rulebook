@@ -93,13 +93,9 @@ of the run is strictly against the rules.
 		+ You may use whatever music you would like.
 * All videos must show the world creation process and the runner entering the
 newly created world.
-* On Playstation 4/5 for runs in the **top 5** of a **full game** or
+* After completing a run in the **top 5** of a **full game** or
   **world record** runs of an **individual level** category at the time
-  of verification, you should clip the entire run using the console's
-  clipping feature and keep the entire raw video saved in your console,
-  as we may ask you for further proof. Once the run is verified, you may
-  delete the video. This doesn't apply for runs over an hour long (max
-  clip length).
+  of verification, you MUST exit the world and go to the main menu.
 * On Windows for runs in the **top 5** of a **full game** or **world
   record** runs of an **individual level** category at the time of
   verification, the following script MUST be run at the START or END of
