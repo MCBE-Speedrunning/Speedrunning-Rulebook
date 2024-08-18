@@ -63,8 +63,12 @@ world seed for every submission, but it is not mandatory
 	(e.g., gamma) are not allowed.
 * Any other form of game modification / data pack is forbidden.
 * Any form of external game assistance (macros, scripts etc.) is forbidden. 
-    - Macros for resetting worlds are allowed. 
-    - A key mapper is allowed on mobile for dropping and changing perspective.
+	- Macros for resetting worlds are allowed. 
+	- A key mapper is allowed on mobile when binding the following keys
+	and actions:
+		* Q must be bound to Drop
+		* F5 must be bound to change perspective
+		* Shift must be bound to crouch
 
 ## Proof Rules
 
