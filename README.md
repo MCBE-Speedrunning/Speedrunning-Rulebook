@@ -77,3 +77,5 @@ Speedrunning Rulebook
 	- [Touchscreen Glitch](tsglitch/README.md#touchscreen-glitch)
 
 Cool text
+
+cooler text
