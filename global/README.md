@@ -207,15 +207,16 @@ function prompt {"PS: >"}
 
 ## Timing Rules
 
-* Timing starts on the first frame of movement after world creation.
-	- The pause menu and changing perspectives do
-	not count as movement.
-	- For cooperative runs, timing starts when the first player moves.
-	- Opening your inventory, punching, and mining all count as movement.
-* You may wait for a reasonable amount of time at the start of your run for the
-world to load.
-* Full game runs time with full second precision. Milliseconds will be used,
-however, in the case of a tie.
+### Timing starts when: 
+* Any input, except changing perspective, opening chat, or the pause menu.
+* Any sort of player movement, or if the player takes damage that has any form of knockback.
+* For cooperative runs, timing starts when any of the players performs one of the actions mentioned above.
+### Notes/Exceptions:
+* If the player spawns inside a block and gets pushed by it, the timer does not start.
+* Inputs that have no effect, such as right clicking nothing, do not start the timer.
+* On runs played using touchscreen, time starts when the action takes place, and not when a button is touched.
+* You may wait for a reasonable amount of time at the start of your run for the world to load.
+* Full game runs time with full second precision. In the case of a tie, runs will be timed with millisecond precision.
 * Individual level runs are timed with millisecond precision.
 
 ## World Creation Rules
