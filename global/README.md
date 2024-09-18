@@ -220,6 +220,9 @@ function prompt {"PS: >"}
 * Inputs that have no effect, such as right clicking nothing, do not start the timer.
 * On runs played using touchscreen, time starts when the action takes place, and not when a button is touched.
 * You may wait for a reasonable amount of time at the start of your run for the world to load.
+    * If a reasonable amount of time is exceeded, the time starts on
+      world load.
+    * A reasonable amount of time is up to the examiner's discretion.
 * Full game runs time with full second precision. In the case of a tie, runs will be timed with millisecond precision.
 * Individual level runs are timed with millisecond precision.
 
