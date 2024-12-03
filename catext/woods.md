@@ -67,3 +67,18 @@ correlate to which items you have to collect.
 	- Warped
 	- Mangrove
 	- Cherry
+
+## 1.21.50+
+
+* Must collect the following woods:
+	- Acacia
+	- Birch
+	- Crimson
+	- Dark oak
+	- Jungle
+	- Oak
+	- Spruce
+	- Warped
+	- Mangrove
+	- Cherry
+	- Pale Oak
