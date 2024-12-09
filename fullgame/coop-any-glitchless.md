@@ -5,5 +5,5 @@
 
 [Back](../README.md)
 
-* All [Any% Glitchless rules](any.md) apply to this category.
+* All [Any% Glitchless rules](./any.md) apply to this category.
 * All [cooperative specific rules](../coop/README.md) apply to this category.

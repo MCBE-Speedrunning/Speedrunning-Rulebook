@@ -5,5 +5,5 @@
 
 [Back](../README.md)
 
-* All [Any% rules](any.md) apply to this category.
+* All [Any% rules](./any.md) apply to this category.
 * All [cooperative specific rules](../coop/README.md) apply to this category.

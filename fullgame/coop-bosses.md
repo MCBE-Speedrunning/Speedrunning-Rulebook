@@ -5,5 +5,5 @@
 
 [Back](../README.md)
 
-* All [Kill Bosses rules](bosses.md) apply to this category.
+* All [Kill Bosses rules](./bosses.md) apply to this category.
 * All [cooperative specific rules](../coop/README.md) apply to this category.

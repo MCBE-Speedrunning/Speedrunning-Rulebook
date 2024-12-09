@@ -1,6 +1,6 @@
 # All required achievements for MCBE 100%
 
-[Back](hundo.md)
+[Back](./hundo.md)
 
 * All of the following achievements must be obtained during your 100%
 speedrun.
