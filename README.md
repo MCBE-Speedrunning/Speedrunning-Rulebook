@@ -4,9 +4,9 @@ Minecraft: Bedrock Edition
 Speedrunning Rulebook
 </h1>
 
-# Table of Contents
+## Table of Contents
 
-## Game Rules
+### Game Rules
 
 * [Bannable Offences and our Cheater Policy](./cheaters/README.md)
 
@@ -18,7 +18,7 @@ Speedrunning Rulebook
 	- [Timing Rules](./global/README.md#timing-rules)
 	- [World Creation Rules](./global/README.md#world-creation-rules)
 
-## Category Rules
+### Category Rules
 
 * Full Game Specific Rules
 	- [Any%](./fullgame/any.md)
@@ -49,7 +49,7 @@ Speedrunning Rulebook
 	- [All Wood Types](./catext/woods.md)
 	- [Full Inventory](./catext/fullinv.md)
 
-## Subcategory Rules
+### Subcategory Rules
 
 * [Cooperative Specific Rules](./coop/README.md)
 	- [General](./coop/README.md#general)
