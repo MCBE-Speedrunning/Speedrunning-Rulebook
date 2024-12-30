@@ -242,6 +242,10 @@ function prompt {"PS: >"}
 * TNT Explodes: ON
 * Mob Loot: ON
 * Tile Drops: ON
+* Beds Work: ON
+* Required Sleeping Players: Default
+* Immediate Respawn: OFF
+* Respawn Blocks Explode: ON
 * Respawn Radius: Default
 * Use Experimental Gameplay: OFF
 * Activate Cheats: OFF
