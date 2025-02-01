@@ -212,7 +212,7 @@ function prompt {"PS: >"}
 ## Timing Rules
 
 ### Timing starts when: 
-* Any input, except changing perspective, opening chat, or the pause menu.
+* Any input, except changing perspective, opening chat, emote, or the pause menu.
 * Any sort of player movement, or if the player takes damage that has any form of knockback.
 * For cooperative runs, timing starts when any of the players performs one of the actions mentioned above.
 ### Notes/Exceptions:
