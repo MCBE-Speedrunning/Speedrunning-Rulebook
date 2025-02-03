@@ -23,6 +23,8 @@ start and at the end of every segment.
 example, for a 1.16 100% run, you can play on 1.16.0, 1.16.1, 1.16.100, etc.
 (You cannot complete a 1.16 100% run on 1.19 by only completing the necessary
 achievements for 1.16).
+* For cooperative, achievements are not shared, and they have to be completed all by the same player.
+* This player may not be the host, but still has to record every segment, and show the achievement list at the start & end of every segment.
 * If one of those four achievements doesn't pop up, even though you did complete
 them, you can put a timestamp of when you did it instead. You still have to
 complete them:
