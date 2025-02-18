@@ -19,6 +19,28 @@
 
 * You must play on the Windows 10/11 Edition of the game.
 
+* Running multiple instances of Minecraft Bedrock is only allowed by
+  modifying the windows registry
+    * This can be done with the following PowerShell script
+
+```pwsh
+$packageFullName = (Get-AppxPackage -Name Microsoft.MinecraftUWP).PackageFullName
+if ([String]::IsNullOrEmpty($packageFullName)) {
+    Write-Host "Could not get 'Microsoft.MinecraftUWP' package." -ForegroundColor Red
+    return
+}
+$registryPath = "HKCU:SOFTWARE\Classes\Extensions\ContractId\Windows.Launch\PackageId\$packageFullName\ActivatableClassId\App\CustomProperties"
+if (!(Test-Path -Path $registryPath)) {
+    New-Item -Path $registryPath -ItemType RegistryKey -Force | Out-Null
+}
+Set-ItemProperty -Path $registryPath -Name "SupportsMultipleInstances" -Value 1 -Type DWORD
+```
+
+* Joining the same world on multiple instances is not allowed.
+* Rare save file glitches will result in the run being rejected (such
+  as copying the seed over, copying some chunks over, and other
+  glitches)
+
 ### Linux / MacOS
 
 * Linux and MacOS users may play the Pocket Edition of the game and
