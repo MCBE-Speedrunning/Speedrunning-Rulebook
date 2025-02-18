@@ -20,6 +20,10 @@ categories unless explicitly stated otherwise.
 	- This includes changing game modes.
 * Reloading the world (quitting and loading the same world again) always puts
 the run into the glitched category.
+	- If proven that reloading the world does not affect the run, the run may be kept glitchless.
+* You may freeze/suspend the game, however this must be done before any input
+	- If time starts due to natural causes (flowing water, etc.) and the game is suspended/frozen after that happens, the run will be punished with either:
+	A small time punishment that matches the time it took to freeze the game (usually +1 second), or a rejection if it affected the run in a major way.
 * While we do promote ingenuity and creativity from runners, do not attempt to
 be cheeky in regards to the rules. Exploiting loopholes in the rules that were
 clearly not intended to be exploited may result in your run being rejected.
@@ -33,7 +37,7 @@ clearly not intended to be exploited may result in your run being rejected.
 	specific version or range of versions.
 	- Full game runs performed on beta versions of the game must be submitted
 	to the beta category on our category extensions.
-	- Beta versions of the game are not permitted for Individual Level runs.
+	- Beta versions of the game are not permitted unless stated otherwise.
 * If you submit a video significantly longer than the duration of the run,
 specify timestamps of the run's beginning and end in the submission
 description.
@@ -61,7 +65,7 @@ world seed for every submission, but it is not mandatory
 	- This allows the change of any visual settings (e.g., vsync to decrease lag).
 	- Any changes that may be used to provide an advantage to the runner
 	(e.g., gamma) are not allowed.
-* Any other form of game modification / data pack is forbidden.
+* Any other form of game modification / behavior pack is forbidden.
 * Any form of external game assistance (macros, scripts etc.) is forbidden. 
 	- Macros for resetting worlds are allowed. 
 	- A key mapper is allowed on mobile when binding the following keys
