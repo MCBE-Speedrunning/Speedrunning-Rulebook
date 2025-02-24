@@ -102,6 +102,11 @@ world seed for every submission, but it is not mandatory
 	- A run may be rejected if there are too many dropped frames, as it
 	makes accurate retiming impossible.
 	- Audio is not required.
+	- The following websites are banned and cannot be used for video
+	submission:
+		+ twitch.tv
+		+ discord.com
+		+ All websites centered around NSFW content
 * It is not required to have a timer.
 * Editing the video in any way, shape, or form that affects the resulting time
 of the run is strictly against the rules.
