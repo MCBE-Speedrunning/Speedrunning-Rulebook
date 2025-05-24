@@ -18,6 +18,13 @@ categories unless explicitly stated otherwise.
 	rule.
 * The editing of any world settings after world creation is strictly forbidden.
 	- This includes changing game modes.
+    - Changing the world's difficulty during the run is allowed, with
+      the exception of changing to or from the peaceful difficulty.
+      + When submitting a run where the difficulty is changed, the
+        "World Difficulty" field in the submission form should be set
+        to the easiest difficulty played.
+      + For example if a run switches from "Hard" difficulty to
+        "Normal", it would fall under "Normal" difficulty.
 * Reloading the world (quitting and loading the same world again) always puts
 the run into the glitched category.
 	- If proven that reloading the world does not affect the run, the
