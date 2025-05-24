@@ -22,6 +22,11 @@ categories unless explicitly stated otherwise.
 the run into the glitched category.
 	- If proven that reloading the world does not affect the run, the
 	run may be kept in the glitchless category.
+	- Exceptions to this rule include, but are not limited to:
+        + Being stuck on the nether roof.
+        + Entities being at ~Y32000
+        + Any general bug that isn't feasibly fixable without
+          reloading the world.
 * While we do promote ingenuity and creativity from runners, do not attempt to
 be cheeky in regards to the rules. Exploiting loopholes in the rules that were
 clearly not intended to be exploited may result in your run being rejected.
