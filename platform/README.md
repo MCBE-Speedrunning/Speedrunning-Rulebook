@@ -64,6 +64,7 @@ submit to the PC leaderboards if played via the
 	- Xbox Series X
 	- Xbox Series S
 	- Nintendo Switch
+	- Nintendo Switch 2
 	- fireTV
 * All input methods are legal with the exception of touchscreen.
 
