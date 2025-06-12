@@ -5,11 +5,7 @@
 
 [Back](../README.md)
 
-This leaderboard was originally created to store runs for 1.16 betas that had
-seeds broken after updates. There are also some features that arguably make
-speedrunning 1.16 beta rsg easier/faster.
-
-* All [Any% rules](../fullgame/any.md) apply to this category.
+* All [Any% rules](../fullgame/any-glitchless.md) apply to this category.
 * You must play on a beta version of 1.16
 * Seeds that are used on the main boards and work on both beta and full-release
 are not allowed.
