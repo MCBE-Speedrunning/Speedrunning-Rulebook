@@ -46,11 +46,12 @@ correlate to which items you have to collect.
 	- Gold
 	- Diamond
 
-## 1.16+ (No Chainmail)
+## 1.21.111+
 
 * Must collect the following armor sets:
 	- Leather
 	- Chainmail
+	- Copper
 	- Iron
 	- Gold
 	- Diamond
