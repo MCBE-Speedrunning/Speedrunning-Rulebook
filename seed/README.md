@@ -13,6 +13,7 @@
 	- It does not matter if you choose the seed, or randomly smash your
 	keyboard. Submissions to set seed that do not predefine a seed will be
 	rejected.
+* Full game runs time with millisecond precision
 
 ## Random Seed
 
