@@ -140,3 +140,48 @@ in the versions above:
 	- Ahoy!
 	- Castaway
 	- Atlantis?
+
+1.0
+----
+* Must complete all the achievements excluding the following ones and the ones
+in the versions above:
+	- The Haggler
+	- Treasure Hunter
+	- Organizational Wizard
+	- Cheating Death
+	- Feeling Ill
+	- Let it Go!
+	- So I Got That Going For Me
+
+0.12
+----
+* Must complete all the achievements excluding the following ones and the ones
+in the versions above:
+	- Dispense With This
+	- Tie Dye Outfit
+	- Trampoline
+	- Camouflage
+	- Map Room
+	- Freight Station
+	- Smelt Everything!
+	- Taste of Your Own Medicine
+	- When Pigs Fly
+	- Inception
+	- Saddle Up
+	- Artificial Selection
+	- The Beginning?
+	- The Beginning.
+	- Beaconator
+	- Overpowered
+	- Free Diver
+	- Rabbit Season
+	- The Deep End
+	- Dry Spell
+	- Super Fuel
+	- The End?
+	- The End.
+	- You Need a Mint
+	- Beam Me Up
+	- The End... Again...
+	- Great View From Up Here
+	- Super Sonic
