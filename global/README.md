@@ -68,7 +68,9 @@ world seed for every submission, but it is not mandatory
 
 ## Game Modification Rules
 
-* Any sort of texture pack is banned.
+* All texture packs are now banned.
+    - This is due to players gaining slight advantages when running in
+      some categories
 * All runs must be performed on a vanilla client.
 	- There is an exception to this rule for runners playing on Linux.
 * Runners are allowed to edit game options in the options.txt file of the game.
@@ -108,18 +110,22 @@ world seed for every submission, but it is not mandatory
 		+ discord.com
 		+ All websites centered around NSFW content
 * It is not required to have a timer.
-* Editing the video in any way, shape, or form that affects the resulting time
-of the run is strictly against the rules.
-	- Examples of banned edits are splices and changing the video speed.
-	- Examples of legal edits are putting music over your run and adding a
-	custom video intro.
-		+ You may use whatever music you would like.
+* Editing any part of your video that can affect the final time is
+  STRICTLY against the rules.
+    - Examples of banned editing include cutting, splicing, animating,
+      transitioning, speeding up the video, slowing video down etc.
+    - Examples of allowed editing include adding any music you wish,
+      audio editing, custom intro/outros, mob killing counters, own
+      timings/splits etc.
 * All videos must show the world creation process and the runner entering the
-newly created world.
-* You may freeze/suspend the game, however this must be done before any input
-* After completing a run in the **top 5** of a **full game** or
-  **world record** runs of an **individual level** category at the time
-  of verification, you MUST exit the world and go to the main menu.
+  newly created world.
+* You may freeze/suspend the game, however this must be done before any
+  input.
+* Runners MUST exit the world and return to the main menu IF the
+  following applies:
+    - A Top 5 run of a Full game completed (Random / Set Seed runs).
+    - World Records in individual levels. (Obtain Item, Obtain Dye
+      Colours etc).
 * On Windows for runs in the **top 5** of a **full game** or **world
   record** runs of an **individual level** category at the time of
   verification, the following script MUST be run at the START or END of
@@ -231,22 +237,43 @@ function prompt {"PS: >"}
 
 ## Timing Rules
 
+* Timing is based on RTA (Real Time Attack). Once you start a run and
+  the time begins, you can only stop the time by completing your run.
+* Timing WILL continue if the game is in a paused state as well as if
+  the player uses the chat.
+* Timing WILL continue during both the Nether and End dimension "Loading
+  Terrain" screens.
+    - Excludes when running the "Enter Nether" category.
+
 ### Timing starts when: 
-* Any input, except changing perspective, opening chat, emote, or the pause menu.
-* Any sort of player movement, or if the player takes damage that has any form of knockback.
-* For cooperative runs, timing starts when any of the players performs one of the actions mentioned above.
-### Notes/Exceptions:
-* If the player spawns inside a block and gets pushed by it, the timer does not start.
-* Inputs that have no effect, such as right clicking nothing, do not start the timer.
-* On runs played using touchscreen, time starts when the action takes place, and not when a button is touched.
+* Any controllable player movement. (Moving, crouching, punching, etc).
+* Any damage is taken to player. (Mobs attacking you, starvation,
+  drowning etc)
+* Any other visible input. (Opening inventory etc).
+* Any player does any of the above. (For Cooperative runs).
+* When the action takes place. (For Touchscreen runs).
+### Timing does NOT start when:
+* Changing perspective's
+* Emoting.
+* Pausing the game.
+* Being pushed by spawning inside of a block.
+* Water moves the player
+* Inputs that have no impact or effect. (Right clicking nothing,
+  pressing unbounded controls etc).
+* A button is touched (For Touchscreen runs).
 * You may wait for a reasonable amount of time at the start of your run for the world to load.
     * If a reasonable amount of time is exceeded, the time starts on
       world load.
     * A reasonable amount of time is up to the examiner's discretion.
-* Full game runs time with full second precision. In the case of a tie, runs will be timed with millisecond precision.
-* Individual level runs are timed with millisecond precision.
+* Full game runs (Random/Set Seed) are timed with tfull second precision
+  only. In the case of a tie, runs will then be timed with millisecond
+  precision.
+* Individual level runs (Obtain Item, Obtain Dyes etc) are always timed
+  with millisecond precision.
 
 ## World Creation Rules
+
+World names may be changed from the default name.
 
 **NOTE: All videos must display the world creation settings**
 
