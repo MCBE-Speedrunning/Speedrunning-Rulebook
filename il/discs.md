@@ -125,3 +125,52 @@ correlate to which items you have to collect.
 	- Ward
 	- Wait
 
+## 1.21.90
+
+* Must collect the following discs:
+	- 5
+	- 11
+	- 13
+	- Blocks
+	- Cat
+	- Chirp
+	- Creator
+	- Creator (Music Box)
+	- Far
+	- Mall
+	- Mellohi
+	- Otherside
+	- Pigstep
+	- Precipice
+	- Relic
+	- Stal
+	- Strad
+	- Tears 
+	- Ward
+	- Wait
+
+## 1.21.93
+
+* Must collect the following discs:
+	- 5
+	- 11
+	- 13
+	- Blocks
+	- Cat
+	- Chirp
+	- Creator
+	- Creator (Music Box)
+	- Far
+	- Lava Chicken
+	- Mall
+	- Mellohi
+	- Otherside
+	- Pigstep
+	- Precipice
+	- Relic
+	- Stal
+	- Strad
+	- Tears 
+	- Ward
+	- Wait
+
