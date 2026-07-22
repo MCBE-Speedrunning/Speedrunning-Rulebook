@@ -52,20 +52,25 @@ submit to the PC leaderboards if played via the
 * You must play on one of the following platforms:
 	- Android
 	- iOS
+	- iPod
 	- Windows Phone
 * All input methods are legal.
 
 ## Console
 
 * You must play on one of the following platforms:
-	- PS4
-	- PS5
+	- Amazon Fire TV
+	- PlayStation 4
+	- PlayStation 4 Pro
+	- PlayStation 5
+	- PlayStation 5 Pro
+	- Switch
+	- Switch 2
 	- Xbox One
-	- Xbox Series X
+	- Xbox One S
+	- Xbox One X
 	- Xbox Series S
-	- Nintendo Switch
-	- Nintendo Switch 2
-	- fireTV
+	- Xbox Series X
 * All input methods are legal with the exception of touchscreen.
 
 ## Virtual Reality
