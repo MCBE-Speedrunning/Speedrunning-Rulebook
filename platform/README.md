@@ -47,6 +47,16 @@ Set-ItemProperty -Path $registryPath -Name "SupportsMultipleInstances" -Value 1 
 submit to the PC leaderboards if played via the
 [Minecraft Bedrock Launcher](https://mcpelauncher.readthedocs.io/en/latest/getting_started/index.html)
 
+Changing the following options is allowed:
+
+- Resolution
+- Fullscreen
+- VSync
+- FPS-Hud
+- Keystroke-Mousehud-Hud
+- UI Scale
+- Move huds
+
 ## Mobile
 
 * You must play on one of the following platforms:
