@@ -119,7 +119,8 @@ newly created world.
 * You may freeze/suspend the game, however this must be done before any input
 * After completing a run in the **top 5** of a **full game** or
   **world record** runs of an **individual level** category at the time
-  of verification, you MUST exit the world and go to the main menu.
+  of verification, you MUST navigate to the title screen, such that the
+  Minecraft version is visible.
 * On Windows for runs in the **top 5** of a **full game** or **world
   record** runs of an **individual level** category at the time of
   verification, the following script MUST be run at the START or END of
