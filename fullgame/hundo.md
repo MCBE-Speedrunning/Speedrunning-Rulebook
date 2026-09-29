@@ -36,7 +36,7 @@ complete them:
 1.21
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- Passing the Time
 	- Diamonds to You!
 	- Time for Stew
@@ -55,7 +55,7 @@ in the versions above:
 1.19
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- Smithing with Style
 	- Planting the Past
 	- Careful Restoration
@@ -63,7 +63,7 @@ in the versions above:
 1.18
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- With Our Powers Combined!
 	- Birthday Song
 	- It Spreads
@@ -72,7 +72,7 @@ in the versions above:
 1.17
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- Feels Like Home
 	- Sound of Music
 	- Star trader
@@ -81,7 +81,7 @@ in the versions above:
 1.16
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- Wax on, Wax off
 	- Whatever Floats Your Goat
 	- The Healing Power of Friendship
@@ -89,7 +89,7 @@ in the versions above:
 1.14
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- Bullseye
 	- Cover me in debris
 	- Hot Tourist Destination
@@ -98,7 +98,7 @@ in the versions above:
 1.11
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- Sticky Situation
 	- Total Beelocation
 	- Bee our Guest
@@ -106,7 +106,7 @@ in the versions above:
 1.10
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- Master Trader
 	- I've got a bad feeling about this
 	- Disenchanted
@@ -119,7 +119,7 @@ in the versions above:
 1.5
 ----
 * Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+excluded in previous versions:
 	- Fruit on the Loom
 	- Zoologist
 	- Where Have You Been?
@@ -127,8 +127,7 @@ in the versions above:
 
 1.2
 ----
-* Must complete all the achievements excluding the following ones and the ones
-in the versions above:
+* Must complete all the achievements excluding the following ones:
 	- Moskstraumen
 	- Echolocation
 	- One Pickle, Two Pickle, Sea Pickle, Four
