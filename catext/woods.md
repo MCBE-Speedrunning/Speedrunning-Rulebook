@@ -82,3 +82,20 @@ correlate to which items you have to collect.
 	- Mangrove
 	- Cherry
 	- Pale Oak
+
+## 26.50+
+
+* Must collect the following woods:
+	- Acacia
+	- Birch
+	- Crimson
+	- Dark oak
+	- Jungle
+	- Oak
+	- Spruce
+	- Warped
+	- Mangrove
+	- Cherry
+	- Pale Oak
+	- Poplar
+
